@@ -16,13 +16,13 @@ if (process.platform == 'win32') {
   exec(createShortcut);
 }
 if (handleStartupEvent()) {
-  return;
+  app.quit();
 }
 function createWindow () {
   // Create the browser window.
   mainWindow = new BrowserWindow({icon: 'images/TC_Icon.png', useContentSize: true, show: false});
   // and load the index.html of the app.
-  mainWindow.loadURL(`file://${__dirname}/index.html`)
+  mainWindow.loadURL(`file://${__dirname}/public/index.html`)
 
   //Doesn't display until ready
   mainWindow.once('ready-to-show', () => {

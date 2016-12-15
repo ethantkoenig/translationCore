@@ -3,19 +3,23 @@
   "productName": "translationCore",
   "version": "0.1.6",
   "description": "A bridge between TS and TM",
-  "main": "main.js",
+  "main": "bootstrapper.js",
   "scripts": {
     "test": "electron-mocha --renderer ./tests",
-    "compile": "babel src --out-dir src",
+    "compile": "babel src -d public",
+    "build": "npm run compile && build",
     "build-win": ".\\\\scripts\\builds\\build-win.cmd",
     "build-winstaller": "node scripts/builds/build-win-installer.js",
-    "build-mac": "npm run compile && build --mac",
     "build-lin": "npm run compile && build --linux",
     "start": "electron ."
   },
   "build": {
     "appId": "wa.translation_core.desktop",
-    "category": "public.app-category.bible.tools"
+    "category": "public.app-category.bible.tools",
+    "files": [
+      "**/*",
+      "!src{/*}"
+    ]
   },
   "repository": {
     "type": "git",

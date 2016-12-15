@@ -235,3 +235,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Build artifacts
+public/js/**/*
