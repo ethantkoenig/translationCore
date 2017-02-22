@@ -31,7 +31,7 @@
   },
   "saveLocation": "/Users/jay/translationCore/60JASOSJNT",
   "params": {
-    "originalLanguagePath": "/Users/jay/Desktop/translationCore/static/tagged",
+    "originalLanguagePath": "/Users/jay/Desktop/translationCore/static/taggedULB",
     "targetLanguagePath": "/Users/jay/translationCore/60JASOSJNT",
     "direction": "ltr",
     "bookAbbr": "jas",

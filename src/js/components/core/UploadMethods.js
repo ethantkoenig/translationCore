@@ -153,7 +153,7 @@ function getParams(path) {
     manifestError("Project has no finished content in manifest");
     return;
   }
-  var ogPath = Path.join(window.__base, 'static', 'tagged');
+  var ogPath = Path.join(window.__base, 'static', 'taggedULB');
   var params = {
     'originalLanguagePath': ogPath
   }

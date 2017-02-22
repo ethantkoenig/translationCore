@@ -4,16 +4,16 @@ const path = require('path');
 const extensionRegex = new RegExp('(\\.\\w+)', 'i');
 
 const GreekParser = {
-    parseEachBook: function (bookPath, name) {
+    parseEachBook: function (bookPath, name, topPath) {
         node_xj({
-            input: path.join(window.__base, 'UGNT', bookPath),  // input xls 
+            input: path.join(topPath, bookPath),  // input xls 
             output: ""
         }, (err, result) => {
             if (err) {
                 console.error(err);
             } else {
                 var obj = this.parseData(result, name);
-                fs.outputJsonSync(path.join(window.__base, 'UGNT', name + ".json"), obj);
+                fs.outputJsonSync(path.join(topPath, name + ".json"), obj);
             }
         });
 
@@ -47,13 +47,14 @@ const GreekParser = {
         }
         return book;
     },
-    start: function () {
-        var folder = fs.readdirSync(path.join(window.__base, 'UGNT'));
+    start: function (pathOfBookExcel) {
+        //path.join(window.__base, 'UGNT')
+        var folder = fs.readdirSync(pathOfBookExcel);
         for (var excel in folder) {
             if (folder[excel][0] == '.') continue;
             //if it is not a DSstore
             var name = path.basename(folder[excel]).replace(extensionRegex, '');
-            this.parseEachBook(folder[excel], name);
+            this.parseEachBook(folder[excel], name, topPath);
         }
     }
 };

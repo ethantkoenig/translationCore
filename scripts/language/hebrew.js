@@ -164,7 +164,7 @@ const HebrewFuncs = {
             if (index >= arr.length) {
                 _this.fixOffsetVerses((hebrewReordered) => {
                     for (var book in hebrewReordered) {
-                        fs.writeJsonSync("./static/tagged/" + book + ".json", JSON.stringify(hebrewReordered[book]));
+                        fs.writeJsonSync("./static/taggedUDB/" + book + ".json", JSON.stringify(hebrewReordered[book]));
                     }
                     callback();
                 });
@@ -247,11 +247,11 @@ const HebrewFuncs = {
         xhr.open('GET', this.VERSE_MAP, true);
         xhr.send(null);
     },
-    parse: function () {
+    parse: function (pathOfBookJSON) {
+        //path.join(window.__base, "/static/tagged/", this.books[book].bookName + ".json")
         HebrewFuncs.rotator.call(HebrewFuncs, () => {
             for (var book in this.books) {
-                var x = path.join(window.__base, "/static/tagged/", this.books[book].bookName + ".json");
-                var obj = JSON.parse(fs.readJsonSync(x));
+                var obj = JSON.parse(fs.readJsonSync(pathOfBookJSON));
                 var entireBook = {};
                 var finishedBook = {};
                 obj.forEach((chapter, cIndex) => {
@@ -266,7 +266,7 @@ const HebrewFuncs = {
                     entireBook[`${cIndex + 1}`] = entireChapter;
                 });
                 finishedBook[this.books[book].bookName] = entireBook;
-                fs.writeJson("./static/tagged/" + this.books[book].bookName + ".json", finishedBook, (err) => {
+                fs.writeJson("./static/taggedUDB/" + this.books[book].bookName + ".json", finishedBook, (err) => {
                 });
             }
         });

@@ -1,0 +1,3825 @@
+{
+  "headers": {
+    "id": "PRO Unlocked Dynamic Bible",
+    "ide": "UTF-8",
+    "h": "PROVERBS",
+    "toc1": "The Book of Proverbs",
+    "toc2": "Proverbs",
+    "toc3": "Pro",
+    "mt1": "Proverbs"
+  },
+  "book": "PROVERBS",
+  "chapters": [
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "These are the sayings that compare one example with another, to teach moral lessons and to make people wise, from Solomon the king of Israel, who was son of David. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "The purpose of these sayings is to teach the meaning of wisdom\n\\q2 and give examples of moral instruction, so wise teaching can guide you.\n\\q1\n"
+        },
+        {
+          "number": 3,
+          "text": "These sayings offer correction so you may live by wisdom,\n\\q2 by the measures of what is right, what is just, and what is fair.\n\\q1\n\n\n"
+        },
+        {
+          "number": 4,
+          "text": "They give wise teaching to those who have no experience and to instruct those who do not know how to live a moral life,\n\\q and to give the young the knowledge they need and to teach them the understanding they do not have— \n\\q1\n"
+        },
+        {
+          "number": 5,
+          "text": "so the wise may listen to these sayings and increase in their learning,\n\\q2 and those who already have insight will gain more ways to teach people how they should live—\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "they understand the lessons of the proverbs and meaning of the parables,\n\\q2 they hear words spoken by the wise, and the difficult riddles will teach them a lesson.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "You must begin your search for knowledge by honoring Yahweh and respecting him, \n\\q2 a fool who dishonors himself hates wisdom and fights against the one who corrects him.\n\\q1 \n"
+        },
+        {
+          "number": 8,
+          "text": "My son, listen when your father teaches you\n\\q2 and do not disobey the rules your mother set down.\n\\q1\n"
+        },
+        {
+          "number": 9,
+          "text": "Their teaching is a wreath upon your head, \n\\q2 and beautiful necklaces around your neck, \n\\q2 they are priceless gifts from your parents.\n\\q1\n\n\n"
+        },
+        {
+          "number": 10,
+          "text": "My son, as sinners try to draw you into their sin with smooth talk and flattery, \n\\q2 do not listen to what they say and do not follow them.\n\\q1\n"
+        },
+        {
+          "number": 11,
+          "text": "They may say, \"Come with us! Join us!\n\\q2 We will hide in wait and we will take the life of one who passes by.\n\\q2 We will hide ourselves and we will rise up and attack a person who has done us no wrong—that will be our sport. \n\\q1\n\n\n"
+        },
+        {
+          "number": 12,
+          "text": "Like the grave has power to take even a healthy person and drag them to the place of the dead, we will take their life from them.\n\\q2 We will make them like those who fall into the place where there is no hope of escape.\n\\q1\n"
+        },
+        {
+          "number": 13,
+          "text": "We will find many valuable and expensive items,\n\\q2 and we will fill our houses with what we stole from them!\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "So, come, be part of our team!\n\\q2 We will split into equal shares, and give to each member of our team, from all the things we stole.\"\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "My son, do not walk that road with them!\n\\q2 Do not put your foot down on the same path on which they walk!\n\\q2\n"
+        },
+        {
+          "number": 16,
+          "text": "They run to the places where they do terrible things,\n\\q2 They hurry so they can commit murder.\n\\q1\n"
+        },
+        {
+          "number": 17,
+          "text": "It is useless to put out a net to trap a bird \n\\q while the bird is watching you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 18,
+          "text": "These men make plans that turn around and kill them.\n\\q2 They set a trap and the trap catches them. \n\\q1\n"
+        },
+        {
+          "number": 19,
+          "text": "These are the ways of all who gain their riches through theft and deceit; \n\\q2 the things they stole destroy the lives of the thieves who cling to them. \n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "Wisdom is like a woman who cries out in the streets.\n\\q2 Wisdom calls out to people in the plazas.\n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "At the intersection of busy streets she cries out \n\\q2 and at the entrance of city gates.\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "She cries, \"How long will you who have not been taught, will you love being enticed to do what will harm you?\n\\q2 How long will you who think you know more than the wise, have so much joy in the little you know?\n\\q2 How long will you fools refuse to learn? \n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "If you pay attention to me when I correct you,\n\\q2 I will tell you all I am thinking. \n\\q2 I will help you understand what I am saying to you.\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "But when I called to you, you refused to listen.\n\\q2 I beckoned you and stretched out my hands to you,\n\\q but no one paid any attention. \n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "You refused to listen to my advice\n\\q and you did not listen when I corrected you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "I will laugh at you, when you are experiencing troubles,\n\\q2 when you are terribly afraid,\n\\q2 I will have contempt for you and not compassion.\n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "When troubles strike you like a powerful storm,\n\\q2 and disasters hit you like a violent wind,\n\\q2 when you experience distress and you go through difficulties,\n\\q2 I will have contempt for you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 28,
+          "text": "When people call to me to help them,\n\\q2 but I will not answer them.\n\\q2 They will be desperate for my help, and search everywhere for me,\n\\q2 but they will not find me.\n\\q1\n"
+        },
+        {
+          "number": 29,
+          "text": "They reject what I say and they hate what I know,\n\\q and they made a choice not to show respect to Yahweh.\n\\q1\n"
+        },
+        {
+          "number": 30,
+          "text": "They would not obey what I told them to do,\n\\q and they did not pay attention when I tried to correct them.\n\\q\n\n\n"
+        },
+        {
+          "number": 31,
+          "text": "So they will experience the consequences of their actions\n\\q2 when they carry out their evil plans. \n\\q1\n"
+        },
+        {
+          "number": 32,
+          "text": "Those who have not been taught wisdom are foolish. \n\\q2 Fools choose to make no decision about anything, but be sure of this: their failure to make a decision will destroy their lives. \n\\q1\n"
+        },
+        {
+          "number": 33,
+          "text": "But those who pay attention to me will live in peace and safety,\n\\q2 and they will rest and not be afraid of any disaster that may come.\"\n\n\n"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, listen to what I say,\n\\q2 and consider my commands to be as valuable as a treasure.\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "Pay attention to wisdom\n\\q2 and try hard to understand what is wise.\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "Call out to Yahweh to get insight,\n\\q2 plead with him to help you understand more of what he wants you to know.\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "Search eagerly for wisdom, like you would search for silver—\n\\q2 like you would search for a treasure that someone has hidden.\n\\q1\n"
+        },
+        {
+          "number": 5,
+          "text": "If you do that, you will understand how to give Yahweh the respect he deserves,\n\\q2 and you will succeed in knowing God.\n\\q1\n\n\n"
+        },
+        {
+          "number": 6,
+          "text": "Yahweh is the one who gives us wisdom.\n\\q2 He is the one who tells us things that we need to know and understand.\n\\q1\n"
+        },
+        {
+          "number": 7,
+          "text": "He stores up good advice so he can give it to them who honor him by the way they live their lives.\n\\q2 He protects those who do with their lives what they say with their lips.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "He guards justice and works to see it is done,\n\\q2 and he keeps safe those who are faithful to him.\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "You will understand what Yahweh sees is right and and what Yahweh determines is just to do,\n\\q2 and he will show you the best way to live. \n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "Wisdom will fill your life; \n\\q2 knowing what Yahweh wants you to know will cause you to be joyful.\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "You will learn to tell the difference between right and wrong \n\\q1 and that will keep you safe.\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "You will not do what Yahweh forbids you to do,\n\\q2 and you will stay away from those who imagine horrible things and talk about them. \n\\q1\n"
+        },
+        {
+          "number": 13,
+          "text": "They go the wrong way,\n\\q2 and they walk where there is no light.\n\\q1\n\n\n"
+        },
+        {
+          "number": 14,
+          "text": "They are glad when they do what is wrong, \n\\q2 they twist good things into bad and enjoy doing what they know is wrong.\n\\q1\n"
+        },
+        {
+          "number": 15,
+          "text": "They bend the truth and live by deception\n\\q2 and their lies hide what they have done.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 16,
+          "text": "Wisdom will keep you safe from the adulterous woman, \n\\q2 and you will not pay attention when a strange woman invites you to be with her.\n\\q1\n"
+        },
+        {
+          "number": 17,
+          "text": "Those women left the husbands they married when they were young,\n\\q2 they forgot the promise they made to God to love only the one they married.\n\\q1\n\n\n"
+        },
+        {
+          "number": 18,
+          "text": "Her house is the temple of death and the place where death is worshiped, \n\\q2 because what she does, leads people to lose their lives.\n\\q1\n"
+        },
+        {
+          "number": 19,
+          "text": "All who go to her to sleep with her have no way to get out of her house,\n\\q2 they will be so lost they will never find the way back to life.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "You must live your life in the same way that good men are living.\n\\q2 You should do the same things as those who do what is right. \n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "Those who do what is right will receive the land as a gift from Yahweh, \n\\q2 and only those who do what they have promised will stay in the land for a long time. \n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "Those who do bad things will have no claim to this land, \n\\q2 and people who take advantage of others and do not keep their word, they will never have even a small part of the land. \nq\n\n\n"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, do not forget the lessons I have taught you.\n\\q1 Keep my commands inside of you, as important guidance for how you will live,\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "because they will help you live a long life, measured in either days or years, \n\\q1 and they will bring you peace in addition to all the lessons they teach you. \n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "Treat others with tenderness and always speak the truth to them. \n\\q2 Let tenderness and truth guide you in every relationship, \n\\q2 as if they both were on a necklace you wear, a necklace that guides you in everything you say. \n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "Then you will experience God's delight in you, \n\\q2 and people will also approve of you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "Put all your trust in Yahweh,\n\\q2 and do not take action because you made up your mind what you should do; \n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "but in every choice and decision, look to Yahweh, \n\\q2 and he will show you how you must live.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "Do not think you are wise enough to direct your life, \n\\q2 give Yahweh the reverence he deserves,\n\\q2 and when evil invites you in, turn aside from it.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "Giving Yahweh reverence will make your body healthy \n\\q2 and it will give your bones the food it needs. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "When you gain money, honor Yahweh by giving him the tithe;\n\\q2 give him the first portion of what you received, to remember it all came from him. \n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "If you honor Yahweh,\nyour storerooms will be so full that they will overflow, \n\\q2 and your barrels will be bursting with all the wine you have made.\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "My son, do not hate it when Yahweh corrects you,\n\\q2 and when he rebukes you, do not resent it,\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "for Yahweh only corrects those he loves,\n\\q2 just like parents correct their children whom they love.\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "Those who get wisdom are fortunate;\n\\q1 with her they also get understanding.\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "Wisdom gives you a better profit than owning silver, \n\\q2 and she will give you something that is much more valuable than gold.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "Being wise is more precious than jewels\n\\q2 and there is nothing you desire that is worth as much as wisdom.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "Wisdom can make you able to live a long life, if you do what she teaches; \n\\q2 she is also ready to make you wealthy and to persuade other people to honor you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "Wisdom is known by how kind she is, \n\\q2 and she always directs you to the place where you will find peace. \n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "Wisdom is like a tree whose fruit gives life to those who hold on to it, \n\\q2 and Yahweh gives happiness to those who hold on to it.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "By his wisdom Yahweh laid out the earth from the very beginning,\n\\q2 and by his understanding he put everything in the heavens exactly where they should be.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "The deepest part of the oceans broke open according to Yahweh's design, \n\\q2 and in the same way, he made the dew so it would fall from the clouds above. \n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "My son, hold on to good sense in the decisions you make,\n\\q2 and do not take your eye off of them.\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "They will bring life to you, \n\\q2 and a sign of Yahweh's blessings on your life \n\\q2 that people can see by your good judgment. \n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "Your good decisions will take you where you are going in safety, \n\\q2 and they will keep you from taking a wrong step on the way. \n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "When you lie down to sleep, you will not have any fear, \n\\q2 and your sleep will be refreshing. \n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "Do not let a disaster fill you with terror, \n\\q2 and do not let the wicked fill you with fear when they come for you.\n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "Yahweh takes your side to defend you, \n\\q2 he will not allow any trap to catch and hold you. \n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "Give good gifts to those who deserve it,\n\\q2 when you can, help them. \n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "Do not say to your neighbor, \"Come back later;\n\\q2 perhaps I will help you tomorrow,\"\n\\q2 when you have the money with you and can help them now.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 29,
+          "text": "Do not make plans to harm anyone you know, \n\\q especially those who live close to you and trust you.\n\\q1\n"
+        },
+        {
+          "number": 30,
+          "text": "If a person has done nothing to you,\n\\q2 do not argue with him or say he has done something to you, when he has not.\n\\q1\n\n\n"
+        },
+        {
+          "number": 31,
+          "text": "Do not envy a person who does violence to others, \n\\q2 and do not imitate anything he does.\n\\q1\n"
+        },
+        {
+          "number": 32,
+          "text": "A lying person is hated by Yahweh for what he does, \n\\q2 but Yahweh is a close friend to anyone who lives rightly.\n\\q1\n\n\n"
+        },
+        {
+          "number": 33,
+          "text": "Yahweh promises punishment to the families of those who do evil things. \n\\q2 but he makes happy the families of the good.\n\\q1\n"
+        },
+        {
+          "number": 34,
+          "text": "Yahweh makes fools of those who treat others with disrespect,\n\\q2 but he gives his kindness to people who are humble.\n\\q1\n\n\n"
+        },
+        {
+          "number": 35,
+          "text": "Those who are wise will be honored,\n\\q2 but foolish people will become well known for their dishonor.\n\n\n"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "Listen, children, listen to what I am teaching you.\n\\q2 If you pay attention, you will learn about what it means to understand.\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "The lessons I give to you are good teaching, given in order. \n\\q2 So do not refuse to learn the lessons I teach you. \n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "When I was my father's boy, \n\\q1 and the only child of my mother,\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "my father told me, \"Put my words deep within you,\n\\q1 obey my orders to you,\n\\q2 and you will have life. \n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "Hold on to what is wise and whatever helps you understand, \n\\q1 and do not forget the lessons I taught you and do not throw away the insights I spoke to you. \n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "Do not run away from the lessons which the wise teach you,\n\\q2 because if you become wise, wisdom will keep you safe.\n\\q1 Love wisdom and it will guard your life.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "The most important thing you can do is to study the principles of wisdom\n\\q2 and spend all you own so you can grow more and more in your understanding. \n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "Wisdom is to be loved more than anything that is valuable, and she will raise you to a high position—\n\\q2 and wisdom will honor you when you show how much you love it. \n\\q1\n"
+        },
+        {
+          "number": 9,
+          "text": "When you have attained wisdom, it will be like a beautiful wreath of honor on your head;\n\\q2 she will give you a beautiful crown.\"\n\\q1\n\n\n"
+        },
+        {
+          "number": 10,
+          "text": "Hear, my son, listen and understand what I say to you— \n\\q1 do this, and you will live a long life. \n\\q1\n"
+        },
+        {
+          "number": 11,
+          "text": "I directed you in the way you should walk and to use the wisdom you were taught;\n\\q2 I led you by the hand down the roads, roads that are the right way for you to go. \n"
+        },
+        {
+          "number": 12,
+          "text": "When you live, you do not have anyone to blame; if you live wisely,\n\\q2 when you use all your effort, you will succeed .\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "Remember the lessons that discipline taught you,\n\\q2 and do not let them go.\n\\q1 Guard them; for you live your life by them.\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "Do not do what wicked people do, nor be with them;\n\\q1 do not be with people who do evil things. \n\\q1\n"
+        },
+        {
+          "number": 15,
+          "text": "Stay far from those ways;\n\\q2 turn another way and go on another road. \n\\q1\n\n\n"
+        },
+        {
+          "number": 16,
+          "text": "Evil people cannot rest until they have done something that Yahweh said they must not do. \n\\q2 They will not rest until they force someone to fall, someone who was doing well until they came along.\n\\q1\n"
+        },
+        {
+          "number": 17,
+          "text": "They get their strength, and they are fed by doing what is wrong;\n\\q and they are intoxicated by hurting others; they get drunk on it.\n\\q1\n\n\n"
+        },
+        {
+          "number": 18,
+          "text": "The path taken by those who do right grows brighter and brigher, like the rising of the sun at dawn, \n\\q2 and it shines brighter and brighter until it is as full as the light of day. \n\\q1\n"
+        },
+        {
+          "number": 19,
+          "text": "The actions of the wicked are like the darkness—\n\\q2 they stumble because they cannot see what makes them fall.\n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "My son, pay attention to what I am saying to you.\n\\q2 Pay attention to these lessons I am teaching you. \n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "Keep reading them over and over, \n\\q1 and keep them deep within you. \n\\q2\n\n\n"
+        },
+        {
+          "number": 22,
+          "text": "For my words bring a message of life to those who pay attention to them, \n\\q and their message brings health to the entire body.\n\\q1\n"
+        },
+        {
+          "number": 23,
+          "text": "Protect your heart with all your strength and guard what you love;\n\\q2 guard it, for it becomes a fountain overflowing with life. \n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "Make it your aim to keep any lying speech, any deceptive talk away from you; \n\\q2 and put away from you anything that might corrode their values or harm them with useless talk. \n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "Look straight ahead because you are focused on what is good and right, \n\\q2 and do not turn aside neither to the right or the left.\n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "Take care about where you will go, and take care to be sure that the way is safe;\n\\q2 then you will know what to expect along the way.\n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "Do not leave the straight road by turning to the left or to the right,\n\\q1 and do not follow the way that leads to evil.\n\n\n"
+        }
+      ],
+      "number": 4
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, learn the lessons I teach you about wisdom. \n\\q2 I understand much about this, so listen very carefully to what I tell you. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "If you do that, you will learn the difference between what is important and what is not,\n\\q2 and you will not mix true knowledge with mistakes when you speak.\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "The woman who desires to commit adultery speaks with words that are sweet, \n\\q2 and her kisses are smoother than oil,\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "but in the end, she is so bitter you can taste it,\n\\q2 and she cuts you like a sharp sword. \n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "She walks down to the place of death;\n\\q2 if you follow her, she will lead you all the way to the grave. \n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "She does not want to take the path that will let her live for a long time.\n\\q1 She goes here and there, but where she is going she does not know.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "So now, my sons, pay attention to what I say, \n\\q1 and do not forget or disobey the instruction I am giving you. \n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "Stay far away from the immoral woman;\n\\q2 do not go near the door of her house. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "If you go to her you will lose the respect of others,\n\\q2 and you give your life to someone who will not have mercy on you. \n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "It may be that others will take all the wealth that you have earned, \n\\q2 and it goes into the houses of people you do not know. \n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "And when you are about to die,\n\\q1 you will groan because your flesh and your body are wasting away.\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "Then you will say, \"I hated it when I was punished for doing wrong; \n\\q2 I despised people when they told me how to live. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "I did not obey my teachers\n\\q2 and I paid no attention to those who taught me.\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "I was almost destroyed by bad things that happened to me;\n\\q2 and this was known to everyone who came together to worship Yahweh.\"\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "Just as you drink water from your own cistern, be faithful to your own wife.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "You would not waste your own water by pouring it into the street,\n\\q2 or let your water run into the public places. \n\\q1\n"
+        },
+        {
+          "number": 17,
+          "text": "Let both your water and your wife be for you alone to enjoy,\n\\q2 and not for others to share with you. \n\\q1\n\n\n"
+        },
+        {
+          "number": 18,
+          "text": "May your fountain be blessed;\n\\q1 may you be happy with the woman you married when you were young.\n\\q\n"
+        },
+        {
+          "number": 19,
+          "text": "She is as graceful as a loving deer and as graceful as a young doe. \n\\q2 Let her breasts always satisfy your longings, \n\\q2 so you are forever enraptured with her love. \n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "My son, why should you be caught up in the arms of an adulteress? \n\\q2 Why should you caress the breasts of another man's wife?\n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "Yahweh sees everything we do; nothing is hidden from him. \n\\q2 He sees every path we take; he knows everywhere we go.\n\\q1\n\n\n"
+        },
+        {
+          "number": 22,
+          "text": "An evil person's sinful desires take hold of him; \n\\q2 his sins are like a trap that catches him. \n\\q1\n"
+        },
+        {
+          "number": 23,
+          "text": "An evil man will die because he could not say, \"No\" to his desires;\n\\q2 he gets lost because his foolishness has no limits.\n\n\n"
+        }
+      ],
+      "number": 5
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, if you provide a guarantee for a neighbor who takes out a loan,\n\\q2 or if you give the promise that you will pay for a loan of a person you do not know, \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "you laid a trap for yourself by making the promise, \n\\q2 and you have been caught by agreeing to a contract for someone you did not know. \n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "Do this, my son, and deliver yourself from this difficulty:\n\\q1 humbly go to your neighbor and beg him to cancel the agreement that you made.\n\\q1\n\n\n"
+        },
+        {
+          "number": 4,
+          "text": "Do not sleep, \n\\q2 and do not rest until you go and talk with him.\n\\q1\n"
+        },
+        {
+          "number": 5,
+          "text": "Save yourself,\n\\q2 like a deer that escapes from the hunter;\n\\q2 or like a bird that flies away from the hand of one who hunts for birds. \n\\q1\n\n\n"
+        },
+        {
+          "number": 6,
+          "text": "You lazy person, learn something from watching the ants.\n\\q2 Become wise and watch what they do. \n\\q1\n"
+        },
+        {
+          "number": 7,
+          "text": "The ant has no commander, officer, or ruler telling him what to do, \n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "but during the summer it works hard,\n\\q2 gathering and storing food to eat during the winter.\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "But you lazy person, how long will you continue to sleep ?\n\\q2 When will you rise and go to work?\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "You sleep a for a little time, and then you say, \"A little more sleep, a little more resting in bed, \n\\q2 a little more folding of the hands to take a nap.\" \n\\q1\n"
+        },
+        {
+          "number": 11,
+          "text": "Suddenly poverty will take over your life like a thief who steals everything from you. \n\\q1\n\n\n"
+        },
+        {
+          "number": 12,
+          "text": "A worthless person — a person who does bad to others—he lives by the lies he speaks to others. \n\\q2\n"
+        },
+        {
+          "number": 13,
+          "text": "They tell tales by winking their eyes and they give signals by moving their feet, and they make plans by pointing with their fingers.\n\\q1\n\n\n"
+        },
+        {
+          "number": 14,
+          "text": "The one who does bad things lays out plans within himself;\n\\q2 he stirs up constant conflict wherever he goes. \n\\q1\n"
+        },
+        {
+          "number": 15,
+          "text": "His own disaster will overtake him in a second;\n\\q2 he will be crushed to the point that he cannot be healed. \n\\q1\n\n\n"
+        },
+        {
+          "number": 16,
+          "text": "There are six, even seven, things that Yahweh hates. They are:\n\\q3\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "The eyes of the proud, the tongue that tells lies,\n\\q the hands that shed the blood of the innocent,\n"
+        },
+        {
+          "number": 18,
+          "text": "a heart that plots and makes plans to do evil things to others,\n\\q3\n"
+        },
+        {
+          "number": 19,
+          "text": "the witness who breathes out lies when he gives testimony,\n\\q3 and the one who causes strife between members of the same family.\n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "My son, obey the command of your father,\n\\q2 and do not walk away from what your mother taught you.\n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "Keep these lessons and tie them close inside as a part of yourself;\n\\q2 tie them around your neck, to remind you how important they are to you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 22,
+          "text": "When you walk, those lessons will guide you.\n\\q2 When you sleep, they will watch over you and protect you.\n\\q When you wake up in the morning, they will teach you.\n\\q1\n"
+        },
+        {
+          "number": 23,
+          "text": "These commands are like a lamp for you, and what we teach you is like a light to guide you.\n\\q1 When people correct you, this is to continually teach you the right way to live.\n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "These lessons keep you from the immoral woman,\n\\q2 they tell you about her enticing words and warn you to be on guard.\n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "Do not throw your desires after such a woman, nor should you desire her beauty;\n\\q do not let her capture you by the way she looks at you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "Sleeping with a prostitute may cost you only the price of a loaf of bread,\n\\q2 but if you sleep with another man's wife, it may cost you your life.\n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "Can you carry hot coals in your pockets and not be burned?\n\\q1\n\n\n"
+        },
+        {
+          "number": 28,
+          "text": "Can you walk on burning coals and not scorch your feet?\n\\q1\n"
+        },
+        {
+          "number": 29,
+          "text": "So is anyone who sleeps with another man's wife: he will suffer for doing that.\n\\q2 It is certain he will be severely punished.\n\\q1\n\n\n"
+        },
+        {
+          "number": 30,
+          "text": "We do not despise a thief if he steals some food because he is very hungry.\n\\q1\n"
+        },
+        {
+          "number": 31,
+          "text": "But if he steals something and then is caught by others,\n\\q1 he will have to pay back seven times as much as he stole,\n\\q1 even if he must sell everything that is in his house to get enough money to repay what he stole.\n\\q1\n\n\n"
+        },
+        {
+          "number": 32,
+          "text": "But a man who commits adultery is has no good judgment\n\\q2 because he is destroying his own self.\n\\q1\n"
+        },
+        {
+          "number": 33,
+          "text": "Wounds and shame will come to him;\n\\q1 he will never forget how others disgraced him for his deed.\n\\q1\n\n\n"
+        },
+        {
+          "number": 34,
+          "text": "Because that woman's husband will be jealous, he will become furious,\n\\q2 and when he gets revenge, he will not act mercifully toward that man.\n\\q1\n"
+        },
+        {
+          "number": 35,
+          "text": "And he will not accept any bribe to stop him.\n\n\n"
+        }
+      ],
+      "number": 6
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, hold on to the words I speak to you, \n\\q2 and store up in reserve all my orders.\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "Obey my commands,\n\\q2 and you will live.\n\\q1 Consider my commands to be the most precious thing you possess. \n\\q1\n"
+        },
+        {
+          "number": 3,
+          "text": "Tie my commands to your fingers to remind you; \n\\q2 write them on a tablet, like Moses wrote the law, in your inner self. \n\\q1\n\n\n"
+        },
+        {
+          "number": 4,
+          "text": "Speak to wisdom and say to her, \"You are my sister,\"\n\\q2 and speak to understanding and say, \"You are a member of my family,\"\n\\q1\n"
+        },
+        {
+          "number": 5,
+          "text": "and they will keep you away from the woman who desires to commit adultery with you, \n\\q2 the woman who would draw you to herself with her inviting words. Do not listen to her.\n\\q1\n\n\n"
+        },
+        {
+          "number": 6,
+          "text": "Standing in my house, I looked out of a window,\n\\q2 through the wooden shade,\n\\q1\n"
+        },
+        {
+          "number": 7,
+          "text": "and I saw some young men who had not been taught about right and wrong,\n\\q2 and there was a young man there who had no good judgment.\n\\q1\n\n\n"
+        },
+        {
+          "number": 8,
+          "text": "He walked down the street near the house on the corner of the road, \n\\q2 and he walked toward the house of the adultress. \n\\q1\n"
+        },
+        {
+          "number": 9,
+          "text": "It was the time of day when night and darkness were coming near.\n\\q1\n\n\n"
+        },
+        {
+          "number": 10,
+          "text": "That was where the woman who was seeking an affair met the young man, and she greeted him.\n\\q2 She was dressed as prostitutes dress, with seductive and enticing clothes, and she knew why she was there. \n\\q1\n"
+        },
+        {
+          "number": 11,
+          "text": "She was loud and wayward, attracting attention. \n\\q2 She does not stay in her own home—\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "she searches for a man as she walks along the streets one day, and another day she stands to find a man in the market;\n\\q2 at every street corner she waits to trap a man.\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "When she sees the young man, she firmly takes hold of him, and then she kisses him.\n\\q2 and without any shame and with great boldness, she says, \n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "\"Today I have meat in my house, because I made a sacrifice in the temple to promise friendship with Yahweh.\n\\q2 In this way I kept my vows to Yahweh, \n\\q1\n"
+        },
+        {
+          "number": 15,
+          "text": "and now I have come out here to meet you.\n\\q2 I was looking for you, and now I have found you!\n\\q1\n\n\n"
+        },
+        {
+          "number": 16,
+          "text": "I have put on my bed sheets—the finest colored linen fabrics from Egypt.\n\\q1\n"
+        },
+        {
+          "number": 17,
+          "text": "I have sprinkled perfumes on my bed—\n\\q2 myrrh, aloes, and cinnamon.\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "Come! Let us make love all night, until the morning comes.\n\\q2 Let us enjoy ourselves with many ways of making love.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "My husband is not at home;\n\\q2 he has gone away on a long journey.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "He filled a bag with money and took it with him; \n\\q2 he will not come back until the middle of the month.\"\n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "So she she convinces him with her persuasive words;\n\\q2 because of her smooth and convincing talk, he gives in to what she wants to do.\n\\q1\n\n\n"
+        },
+        {
+          "number": 22,
+          "text": "He follows her inside—\n\\q2 like an ox going to the place where its owner will slaughter it,\n\\q2 or like a deer\n\\q2\n"
+        },
+        {
+          "number": 23,
+          "text": "caught in a trap, where the hunter kills it by shooting an arrow into its inner parts.\n\\q1 He is like a bird that flies into a trap\n\\q2 without knowing that it will die as a result.\n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "My sons, listen to me, \n\\q2 and pay careful attention to what I say to you.\n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "You must resist her from within you, from deep inside. Do not decide to do what you want and follow her.\n\\q2 You must decide that you will never follow her where she goes.\n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "She has caused many men to be ruined;\n\\q2 truly, no one can count the men she destroyed—they are too many to count.\n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "The road to her house is the road to the grave;\n\\q2 it goes down to the place where the dead are kept.\n\n\n"
+        }
+      ],
+      "number": 7
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "Listen to Wisdom calling; her voice sounds like that of a woman who shouting in the public square.\n\\q1 Understanding raises her voice; she sounds like a woman who calls out to be heard. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "On the top of the hills and where the roads come together, \n\\q1 there Wisdom stands. \n\\q1\n"
+        },
+        {
+          "number": 3,
+          "text": "Wisdom also stands at the gates at the entrance to the city, and she calls out with a loud voice. Wisdom says:\n\\q1\n\n\n"
+        },
+        {
+          "number": 4,
+          "text": "\"I am calling out to everyone; \n\\q2 I am shouting to all people!\n\\q1\n"
+        },
+        {
+          "number": 5,
+          "text": "You people who have no training, you must be taught how to live;\n\\q2 you must learn so that you can understand completely.\n\\q1\n\n\n"
+        },
+        {
+          "number": 6,
+          "text": "Listen to me, because I will explain to you some excellent things.\n\\q2 I can teach you about what is right—\n\\q1\n"
+        },
+        {
+          "number": 7,
+          "text": "for I speak what is true;\n\\q2 I detest evil things so much, I hate to even speak about them.\n\\q1\n\n\n"
+        },
+        {
+          "number": 8,
+          "text": "Everything that I say is right;\n\\q2 I do not say anything that changes the meaning of what is good or that leads people away from it. \n\\q1\n"
+        },
+        {
+          "number": 9,
+          "text": "My words give good advice to the one who understands the meaning of what I say;\n\\q2 my words are are right for those who have learned to tell what is good from what is evil.\n\\q1\n\n\n"
+        },
+        {
+          "number": 10,
+          "text": "Choose what I teach you, \n\\q2 instead of trying to get much silver; \n\\q1 and choose the knowledge I will show you, for it is more valuable than gold.\n\\q2\n"
+        },
+        {
+          "number": 11,
+          "text": "For I, Wisdom, am more precious than jewels;\n\\q2 nothing you desire is as valuable as I am.\n\\q1\n\n\n"
+        },
+        {
+          "number": 12,
+          "text": "I, Wisdom, live with Common Sense; we are like two people living in the same house.\n\\q1 I know many things, and I act carefully.\n\\q1\n"
+        },
+        {
+          "number": 13,
+          "text": "Everyone who honors Yahweh hates what is evil.\n\\q2 I am Wisdom, and I hate it when people are proud, when they think they are more important than others.\n\\q2 I hate it when people act in evil ways, and when they tell lies.\n\\q1\n\n\n"
+        },
+        {
+          "number": 14,
+          "text": "I give good advice and I have the best wisdom; \n\\q2 I have true understanding about the nature of things, and I have great strength.\n\\q1\n"
+        },
+        {
+          "number": 15,
+          "text": "When kings are wise, they rule well;\n\\q2 and when rulers are wise, they make laws that are just.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "By me, Wisdom, rulers govern their people;\n\\q by me those who have authority guide their people with justice.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "I am Wisdom, and I love all who love me;\n\\q2 those who work hard to find me will find me.\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "These people will have lasting riches, and they will live right,\n\\q2 because I have riches and honor with me.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "What I can give people is more valuable than fine gold and the best silver.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "I always do what is right and just.\n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "I give wealth to those who love me,\n\\q2 and I fill up their treasuries. \n\\q1\n\n\n"
+        },
+        {
+          "number": 22,
+          "text": "Yahweh created me, Wisdom; he made me when he began to create the world;\n\\q2 I was the first thing he created in the beginning.\n\\q1\n"
+        },
+        {
+          "number": 23,
+          "text": "He appointed me long ago—from the very first, from the beginning of the earth.\n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "I was born before the oceans were created,\n\\q2 when there were no springs from which water flowed.\n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "I was born before the hills and mountains were set in place;\n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "I am Wisdom, and I was born before Yahweh made the earth,\n\\q2 before he made the tiny particles of dust in the earth, I was there.\n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "I was there when Yahweh put the heavens where they are,\n\\q2 on the day when he marked the place in the distance where the sky and the oceans come together.\n\\q1\n\n\n"
+        },
+        {
+          "number": 28,
+          "text": "I was there when Yahweh put the clouds above the earth,\n\\q2 and when he held back the water that is inside the earth.\n\\q1\n"
+        },
+        {
+          "number": 29,
+          "text": "I was there when he fixed a boundary for the seas,\n\\q2 so that the water in the seas would not go past those boundaries,\n\\q1 and when he marked where the foundation of the earth should be laid.\n\\q2\n\n\n"
+        },
+        {
+          "number": 30,
+          "text": "I was at Yahweh's side as his master craftsman;\n\\q1 I made him happy every day, and I always rejoiced when I was with him.\n\\q1\n"
+        },
+        {
+          "number": 31,
+          "text": "I was delighted with the whole world he created;\n\\q2 I was happy with the people he brought into existence, too.\n\\q1\n\n\n"
+        },
+        {
+          "number": 32,
+          "text": "So, you who are my children, listen to me.\n\\q2 How fortunate are those who live as I live. \n\\q1\n"
+        },
+        {
+          "number": 33,
+          "text": "Listen to what I teach you and you will become wise.\n\\q2 Do not reject what I have taught you.\n\\q1\n"
+        },
+        {
+          "number": 34,
+          "text": "How fortunate are those who listen to me,\n\\q2 those who wait for me outside my house every day.\n\\q1\n\n\n"
+        },
+        {
+          "number": 35,
+          "text": "Those who find me will find life,\n\\q2 and Yahweh will be pleased with them.\n\\q1\n"
+        },
+        {
+          "number": 36,
+          "text": "But those who do not find me, they hurt themselves. \n\\q2 All those who hate me love death.\"\n\n\n"
+        }
+      ],
+      "number": 8
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "Wisdom builds her own house, just like a woman who has built her home, \n\\q2 and she made seven pillars that she used to support the roof of her house. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "She prepared a meal and set her table;\n\\q1 she prepared the animals and cooked them to serve for the dinner, \n\\q1 and she made the wine ready for her guests.\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "Like a woman who sends out her maids to give the invitations to her guests, Wisdom calls out from the highest place in the city for all to hear, and she says:\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "\"If you have not been instructed, come here!\"\n\\q1 and she gives the invitation to come to those who have no good judgment.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "\"Come and eat the food that I have prepared,\" she says, \n\\q2 \"and drink the good wine that I have mixed.\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "Leave your untrained ways behind you, and live, \n\\q2 and I will show you how to walk on the road that will give you understanding.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "If you rebuke someone who says insulting things about other people, he will insult you, too.\n\\q1 If you offer correction to an evil person, he will hurt you.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "A person who insults others will hate you if you tell him to stop. \n\\q2 But if you rebuke a wise person, he will become your friend.\n\\q1\n"
+        },
+        {
+          "number": 9,
+          "text": "If you give instruction to a wise person, he will become even more wise.\n\\q2 And if you teach a person who does what is right, he will learn even more.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 10,
+          "text": "The first step in getting wisdom is to give Yahweh the respect he deserves, \n\\q2 and knowing Yahweh, the Holy One, is the where understanding comes from. \n\\q1\n"
+        },
+        {
+          "number": 11,
+          "text": "If you become wise, your days will be filled full, \n\\q2 and you will add years to your life. \n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "If you get wisdom, you will gain many benefits from it;\n\\q2 but when you ridicule other people, you will suffer by yourself.\"\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "A foolish woman talks loudly;\n\\q2 she is untaught in the subjects of wisdom and she knows very little.\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "She sits at the door of her house\n\\q2 or on the highest place in the town,\n\\q1\n"
+        },
+        {
+          "number": 15,
+          "text": "and she calls out to the men who are passing by,\n\\q2 to those walking down the road, concerned only about where they are going.\n\\q1\n\n\n"
+        },
+        {
+          "number": 16,
+          "text": "\"Any of you who have no experience, come here,\"\n\\q2 she says to those who have no good judgment.\n\\q1\n"
+        },
+        {
+          "number": 17,
+          "text": "\"Water that you have stolen is sweet,\n\\q2 and food that you eat by yourself is delicious,\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "The man does not know that the dead are in her home;\n\\q2 that those who went in to her are now in the grave.\"\n\n\n"
+        }
+      ],
+      "number": 9
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "These are the proverbs of Solomon:\n\\q A child who lives according to wisdom makes his father happy; \n\\q2 but if a child does foolish things, he causes his mother to be very sad. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "Riches that you got by being dishonest will not have any value;\n\\q2 but when you do what is right, you will be protected from death. \n\\q1\n"
+        },
+        {
+          "number": 3,
+          "text": "Yahweh does not allow people who do right to starve,\n\\q2 but he will makes it impossible for wicked people to get what they want.\n\\q1\n\n\n"
+        },
+        {
+          "number": 4,
+          "text": "A lazy person who will not work becomes poor;\n\\q2 those who work hard become rich.\n\\q1\n"
+        },
+        {
+          "number": 5,
+          "text": "He is wise who harvests the crops when they are ready to be gathered;\n\\q2 but it would be shameful for him to sleep while others are harvesting the crop. \n\\q1\n\n\n"
+        },
+        {
+          "number": 6,
+          "text": "Those who do right will receive many good gifts from God; \n\\q2 but those who do wicked things cover their violence so they cannot be seen. \n\\q1\n"
+        },
+        {
+          "number": 7,
+          "text": "When we remember those who do what is right, we get a blessing from Yahweh; \n\\q2 but we cannot remember the names of the wicked. \n\\q1\n\n\n"
+        },
+        {
+          "number": 8,
+          "text": "Wise people follow good instructions,\n\\q2 but a fool who talks too much will fail. \n\\q1\n"
+        },
+        {
+          "number": 9,
+          "text": "An honest person lives his life and has nothing to hide;\n\\q2 but one who is dishonest—his lies will be discovered. \n\\q1\n\n\n"
+        },
+        {
+          "number": 10,
+          "text": "The one who winks his eye signals others to help him do something that is wrong, \n\\q2 and a fool will be ruined because he talks too much. \n\\q1\n"
+        },
+        {
+          "number": 11,
+          "text": "A person who does right is like a spring that gives life-saving water;\n\\q2 but the wicked person hides his brutality by his words. \n\\q1\n\n\n"
+        },
+        {
+          "number": 12,
+          "text": "Hatred has the power to start many arguments; \n\\q but love covers anything that may hurt us. \n\\q1\n"
+        },
+        {
+          "number": 13,
+          "text": "Those who have good sense say what is wise,\n\\q2 but people who do not have good judgment must be punished.\n\\q1\n\n\n"
+        },
+        {
+          "number": 14,
+          "text": "Wise people continue to learn all that they can,\n\\q2 but when foolish people speak, they will soon experience destruction. \n\\q1\n"
+        },
+        {
+          "number": 15,
+          "text": "The wealth that rich people have protects them like a city is protected by a strong wall around it ,\n\\q2 but because people are poor, they have no one to help them.\n\\q1\n\n\n"
+        },
+        {
+          "number": 16,
+          "text": "If you do what is right, your reward will lead you to life,\n\\q2 but all that sinful people gain is the ability to sin even more.\n\\q1\n"
+        },
+        {
+          "number": 17,
+          "text": "Life can be found by the one who is trained by discipline;\n\\q2 but the one who will not listen to correction wanders away.\n\\q1\n\n\n"
+        },
+        {
+          "number": 18,
+          "text": "Those who hide their hatred of others, must lie to cover it up. \n\\q2 and those who repeat slander are foolish.\n\\q1\n"
+        },
+        {
+          "number": 19,
+          "text": "When people talk a lot, sin is sure to follow;\n\\q2 if you are wise, you will always be careful about what you say.\n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "The one who does right\n\\q1 is like pure silver;\n\\q1 there is little value in the heart of the one who does wicked things. \n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "What those who do right say benefits many,\n\\q2 but foolish people die because they lack good sense.\n\\q1\n\n\n"
+        },
+        {
+          "number": 22,
+          "text": "Yahweh gives good gifts that make some people wealthy, \n\\q2 and he does not make them suffer for it.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 23,
+          "text": "Foolish people play games when they do what is wrong,\n\\q2 but people with understanding enjoy wisdom. \n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "What the wicked fear will happen to them;\n\\q1 those who do what is right will get what they hoped for.\n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "Wicked people are like the storm that comes and then it is gone. \n\\q2 but those who do right are like a foundation that lasts forever.\n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "Like vinegar in our mouths or smoke in our eyes,\n\\q1 that is what the lazy man is like to the one who hired him. \n"
+        },
+        {
+          "number": 27,
+          "text": "If you give Yahweh the respect he deserves, you will live for a long time;\n\\q2 but wicked people die before they become old.\n\\q1\n\n\n"
+        },
+        {
+          "number": 28,
+          "text": "Those who do right have hope in their joy, \n\\q2 but the wicked can expect their lives to be short. \n\\q1\n"
+        },
+        {
+          "number": 29,
+          "text": "Following Yahweh brings protection to those who keep their promises;\n\\q2 but those who do not follow him find out he destroys those who do what is evil.\n\\q1\n"
+        },
+        {
+          "number": 30,
+          "text": "Those who do right will never be defeated,\n\\q2 but wicked people will not have a home.\n\\q1\n\n\n"
+        },
+        {
+          "number": 31,
+          "text": "Wisdom is like a fruit that those who do right bear, \n\\q2 but Yahweh will cut out the deceitful tongue. \n\\q1\n"
+        },
+        {
+          "number": 32,
+          "text": "Those who do right know the words Yahweh permits them to speak, \n\\q2 but wicked people say what Yahweh has forbidden.\n\n\n"
+        }
+      ],
+      "number": 10
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "When people use scales that are not correct; \n\\q1 Yahweh is angry that they are stealing from their customers;\n\\q2 he is delighted with those who use correct weights on the scales.\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "People who are proud live in such a way that always ends in disgrace;\n\\q2 people who are humble are the only ones who can learn about wisdom.\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "People who keep their promises also make choices that lead them in the right way;\n\\q2 those who cannot be trusted are destroyed by their own dishonesty. \n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "Your money will not help you on the day Yahweh judges the world;\n\\q2 but if you do what is right, you will be kept safe from many dangers, even death.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "When people are honest and good, they know where they should go and what they should do;\n\\q2 but those who do evil find that their wickedness will destroy them.\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "God rescues those who do what is right,\n\\q2 but those who do what is evil become slaves to their desires.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "When a wicked person dies, all he hoped for in the future is lost;\n\\q2 what he wanted to accomplish with his strength, will never happen. \n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "The one who does what is right, Yahweh delivers from trouble; \n\\q2 and Yahweh gives that trouble to the wicked. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "A person who has no kind of religious faith uses his words to destroy his neighbor;\n\\q2 but people who do right will be saved by the knowledge they have gathered.\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "When things go well for those who do what is right, those in their city are happy,\n\\q2 and shouts of joy are heard when wicked people die.\n\\q1\n"
+        },
+        {
+          "number": 11,
+          "text": "When there are people in the city who please God and they give good gifts to others, the city becomes great;\n\\q2 but the words spoken by the wicked tear down the city. \n\\q1\n\n\n"
+        },
+        {
+          "number": 12,
+          "text": "The one who treats his friend with contempt has no good judgment; \n\\q2 a person who has learned what is important says nothing.\n\\q1\n"
+        },
+        {
+          "number": 13,
+          "text": "Those who spread gossip tell secrets to others,\n\\q2 but a person you can trust will not talk about it.\n\\q1\n\n\n"
+        },
+        {
+          "number": 14,
+          "text": "A nation will be destroyed if it does not have leaders who guide it wisely;\n\\q2 but the nation will have victory when it listens to many advisors.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "If you promise to pay off a loan that is taken by a stranger, you will lose your money.\n\\q2 You will be safe if you refuse to make any kind of agreement to pay someone else's debts.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "A kindhearted woman earns respect;\n\\q2 but violent people take hold of riches.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "By their kindness to others kind people give good gifts to themselves,\n\\q2 but one who is cruel hurts himself by his cruelty. \n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "Wicked people tell lies to make more money,\n\\q2 but those who do what is right will be paid even more because they earned it.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "Those who do what is right will live,\n\\q2 but those who do what is wrong will die.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "Yahweh hates those who take good things and they twist them and they do bad things with them, \n\\q2 but he is delighted with those who always do what is right.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "It is certain that evil people will not escape their punishment.\n\\q2 and the children of those who do right will be kept safe. \n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "If you see a gold ring in a pig's nose, \n\\q2 that is very much like a beautiful woman who does not have good sense. \n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "Those who do what is right desire things that result in good,\n\\q2 but the reward of the wicked is that they will experience Yahweh's wrath.\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "If a person sows seed, he can expect to harvest a crop; \n\\q1 his few seeds will give him much more;\n\\q1 another person does not plant a crop, and he becomes poor.\n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "Those who give generously to others will prosper;\n\\q2 if you share your water with other people, you will have enough for yourself, too. \n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "People will curse the merchant who will not sell them grain,\n\\q2 but they praise the one who sells it.\n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "If you work hard and go out to find what is good, you will also find good will.\n\\q2 but if you look for evil, you will find it.\n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "Those who trust in their money will fall down,\n\\q2 but those who do what is right will grow like a healthy tree.\n\\q1\n\n\n"
+        },
+        {
+          "number": 29,
+          "text": "Those who bring troubles to their families will inherit nothing,\n\\q2 and those who do foolish things will become the servants of those who are wise.\n\\q1\n\n\n"
+        },
+        {
+          "number": 30,
+          "text": "Those who do what is right will be like a life giving tree, \n\\q2 but acts of violence take away life.\n\\q1\n"
+        },
+        {
+          "number": 31,
+          "text": "It is sure that those who do what is right will get what they truly deserve; \n\\q2 but even more, the person who does bad things \n\\q1 and the one who sins against Yahweh, \n\\q1 will surely receive what they deserve.\n\n\n"
+        }
+      ],
+      "number": 11
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "The one who wants to learn will welcome correction. \n\\q2 But the one who does not want to be corrected will remain stupid. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "Yahweh approves of those who are good,\n\\q2 but he condemns those who make evil plans. \n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "Wickedness is a bad foundation for a person's life.\n\\q2 People who do well are as stable as a tree with deep roots. \n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "A good wife brings praise to her husband,\n\\q2 but a wife who brings shame home is like a disease that destroys his bones.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "People who do the right thing make plans that are fair and just.\n\\q2 But advice given by wicked people are filled with lies.\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "What wicked people say is like setting up a secret attack while planning to commit murder;\n\\q2 but when those who please Yahweh speak, their words keep them out of danger.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "Wicked people are put out of power, and they are gone,\n\\q2 but those who do what is right will have many generations and that family will continue for a long time.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "A person will be praised according to how much widsom he has;\n\\q2 but one who takes good things and twists them into bad will be hated.\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "It is better to be a humble person, just living your life as a servant to others,\n\\q2 than to tell others how important you are, but you have nothing to eat.\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "People who do what is right care about the feeding and health of their animals,\n\\q2 but even when the wicked try to do something for their animals, it becomes an act of cruelty. \n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "The farmer who works hard in the fields will have enough food to eat,\n\\q2 but those who have no good judgment take on projects that bring them nothing. \n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "Wicked people desire the things that evil people have—things they stole from others. \n\\q2 But people who do what is right have what they have earned; it is their reward. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "An evil person is trapped by the wicked things he says,\n\\q2 but those who do right stay away from much trouble.\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "The good words spoken by a person fill his life with good things, \n\\q2 just as his hard work brings him a reward.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "Foolish people think that what they are doing is always right;\n\\q2 but wise people are willing to listen to advice.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "A foolish person quickly shows how angry he is;\n\\q2 but those who have good sense ignore it when someone insults them.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "Speaking the truth is the same as saying what is right, \n\\q2 but a dishonest person tell lies.\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "When a person speaks without thinking, it is like they are taking stabs at you with a sword; \n\\q2 but what wise people say helps to heal the hurts.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "Speaking the truth will never be out of favor, \n\\q2 but a lie is over in a moment.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "When evil is planned there must be lies within those who carry it out;\n\\q2 but those who give advice that leads to peace, those advisors will celebrate.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "Bad things do not happen to those who do what is right, \n\\q2 but wicked people's lives are filled up with troubles.\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "Yahweh detests those who tell lies,\n\\q2 but he is delighted with those who live faithfully.\n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "Those with good sense do not reveal all that they know,\n\\q2 but foolish people shout out their foolish thinking.\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "Those who are known for their hard work will gain authority over others, \n\\q2 but those who are lazy will be forced to work, even though they hate it.\n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "When a person is anxious, it is like he is carrying a heavy load, \n\\q2 but a good word makes him feel better.\n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "The one who does right will be a good guide for his friend,\n\\q2 but wicked people always get lost.\n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "Lazy people do not even cook the animal they caught,\n\\q2 but those who work hard will acquire wealth that is worth keeping.\n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "Those who walk in the right way find life\n\\q2 and on that road there is no death.\n\n\n"
+        }
+      ],
+      "number": 12
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "A wise child pays attention to the teaching his father gives him;\n\\q2 but a stubborn child refuses to listen to correction. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "Good things come as the fruit of what one says, \n\\q2 but the desire of the deceitful is to consume more and more violence. \n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "The person who is very careful about what he says preserves his life;\n\\q2 the one who talks too much ruins everything.\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "People who are lazy are hungry for everything, but they will not get anything.\n\\q2 People who work hard will get more than they desired.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "Anyone who does right hates it when other tell lies,\n\\q2 but a wicked person brings disgrace on himself.\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "Anyone who does right always acts in ways that are respected,\n\\q2 but the one who does what Yahweh has forbidden ruins his own wicked life.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "Some people have many possessions, but they have nothing of value;\n\\q2 but other people give all they have away, and yet have the best kind of riches.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "A rich person may have to use his wealth to buy back his life from a criminal who holds him as a hostage,\n\\q2 but no poor person would have to think about that kind of danger.\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "The one who does what is right shines like a light that gives joy,\n\\q2 but wicked people are like a lamp that will be extinguished.\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "Pride works within a person and it results in conflict and arguments,\n\\q2 but those who listen to good advice find the wisdom they need.\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "People who think too much of themselves will spend all their money; \n\\q2 the one who makes his money by working with his hands, will find ways to make his money grow.\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "When hope for the future is postponed, it makes you sick—you feel you will never receive what you long for,\n\\q2 but if you receive what you desire, that will be like a tree that gives life.\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "Those who despise good advice bring the punishment for disobeying upon themselves;\n\\q2 the one who pays attention to the instruction will receive honor.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "The lesson taught by the wise are like a fountain that gives life to all who drink from it,\n\\q2 and they inform you about all the deadly dangers around you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "Having a mind that understands right and wrong, brings you respect,\n\\q2 but the one who twists good gifts for bad purposes, \\q2 he never reaches his destination.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "Those who have good sense always take action from what they know is true;\n\\q2 a foolish person proves his decisions are folly, and everyone sees it.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "A wicked messenger will not deliver the message,\n\\q2 but bitter enemies are brought together \n\\q2 when the messages are delivered by a dependable messenger.\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "The one who does not learn from the lessons of discipline will be poor, and he will know shame,\n\\q2 but the one who takes the lessons of discipline and learns from them, \n\\q2 honor will find him. \n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "When a longing comes true,\n\\q it is sweet delight to the one with desires;\n\\q2 and those who are foolish continue to turn toward evil again and again.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "If you spend time with wise people,\n\\q1 by their lives they will show you how you can be wise, as well.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "Sinners run away and disasters chase after them,\n\\q2 but those who do what is right find the good is their reward.\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "A good person sets apart money to give his grandchildren when he dies,\n\\q2 but a sinful person will store up his wealth, not knowing that it will be given to the one who does right.\n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "A field owned by a poor person can produce much food,\n\\q2 but the poor are victims of injustice more than the rich,\n\\q2 and the crop is not planted. \n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "A parent who does not train his child in how he should live,\n\\q2 does not show him any love,\n\\q2 but the one who is careful to train the child in how he should live, shows his great love.\n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "Those who do what is right eat enough food to satisfy their hunger,\n\\q2 but the wicked complain that they are always hungry.\n\n\n"
+        }
+      ],
+      "number": 13
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "A wise woman holds her family together,\n\\q2 but a foolish woman tears it apart by the foolish things she does.\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "The one who honors Yahweh in the way he lives, gives to Yahweh the respect he deserves; \n\\q2 the dishonest person shows his disrespect, and he despises Yahweh. \n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "Pride grows out of the mouth of the fool, like an offshoot from a tree; \n\\q2 but what wise people say preserves their lives. \n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "Where there are no cattle feeding in the barn, the feeding trough is clean; \n\\q2 but if a farmer only has one ox, still he can grow a very great crop.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "You can tell if a witness is reliable, if he tells the truth, \n\\q2 but when a witness breaths out lie after lie, he is a false witness and cannot be depended on. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "One who thinks he is better than others, he may seek wisdom, but he will not find it, \n\\q2 but the one who has grown in knowledge can easily learn much more. \n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "Do not stay close to a foolish person: Walk away from him.\n\\q2 There is no knowledge to be learned from him.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "The one who has learned much knowledge applies it to his own life; that is wisdom.\n\\q2 The foundation of all folly is the lie. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "Fools watch the guilt offering being sacrificed in the temple, and they make fun of it,\n\\q2 but those who please Yahweh are glad to share his favor. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "A person keeps close inside all his bitterness and disappointment; \n\\q2 and no stranger will ever know all the joy it contains. \n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "The family of the wicked will be destroyed,\n\\q2 but a little tent where the upright live will grow, like a tree grows into something grand.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "A person sees a way, and it appears to be the right way for him to go,\n\\q2 but he does not know that it only leads to death. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "A person can be in great pain and still be able to laugh;\n\\q2 a time of great joy may end in grief.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "The faithless man will receive from Yahweh what he deserves; \n\\q2 but Yahweh will give a good person what is his.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "Those who have had no instruction believe everything they are told,\n\\q2 but the man who has learned some knowledge thinks about what he will do. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "A wise person sees evil and is afraid of it, and he turns away from it; \n\\q2 the foolish person boldly throws aside every warning. \n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "Those who get angry quickly do foolish things;\n\\q2 people hate those who make evil plans.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "Those who have not been instructed have foolishness handed to them;\n\\q2 those who have learned a little knowledge are surrounded by it. \n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "Evil people will bow down before those who are good,\n\\q2 and the wicked people will bow down at the gates of those who do right. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "The poor are hated even by their own companions,\n\\q2 but the rich have many friends. \n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "It is sinful to have contempt for your neighbors;\n\\q2 but how fortunate are those who do kind things for the poor.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "Those who plot with evil plans, do they not go astray?\n\\q2 But those who make plans for the good will receive love and faithfulness.\n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "If you work hard, you will make some money,\n\\q2 but where there is only talk, it leads to poverty. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "The reward of the wise is the wealth they have,\n\\q2 but the folly of fools only brings them more foolishness. \n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "A witness who tells the truth, saves the lives of the innocent; \n\\q2 a lying witness is filled with deceit. \n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "Those give Yahweh the honor he deserves\n\\q2 have much confidence in him;\n\\q2 giving honor to Yahweh will also protect your children.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "Giving Yahweh the honor he deserves is like having a fountain that gives life;\n\\q2 so you can keep away from being trapped by death.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 28,
+          "text": "A king measures his glory by the number of the people in his kingdom,\n\\q2 but if the prince has no people, he is brought to ruin. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 29,
+          "text": "Those who do not quickly become angry have much understanding;\n\\q2 the quick-tempered praise foolishness. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 30,
+          "text": "Being at peace is good for the whole body,\n\\q2 but having evil within, rots the bones. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 31,
+          "text": "The one who oppresses a poor person curses Yahweh who made him,\n\\q2 but those who show favor to a poor person honor Yahweh.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 32,
+          "text": "The wicked person is brought down by his evil actions,\n\\q2 but those who do what is right have a safe home, even in death.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 33,
+          "text": "Wisdom finds a place to rest in someone who has discernment,\n\\q2 but wisdom lets herself be known even among fools. \n\\q1\n\n\n"
+        },
+        {
+          "number": 34,
+          "text": "When a people do what is right, the nation does well,\n\\q2 but sin brings disgrace upon any people. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 35,
+          "text": "A king is pleased with a servant who does his work with good judgment,\n\\q2 but the king is angry with any servant who brings shame to him. \n\n\n"
+        }
+      ],
+      "number": 14
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "A gentle answer turns away anger,\n\\q but a harsh reply stirs up anger even more. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "When wise people speak, they give praise to the value of knowledge; \n\\q2 foolish people continually say foolish things.\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "Yahweh sees everything that is happening;\n\\q2 he keeps account of the evil and of the good.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "A person who can give healing with what they say is like a tree that gives life;\n\\q2 when someone lies to you, it can feel like they have crushed you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "A fool has contempt for his father when he disciplines him,\n\\q2 but the one who learns from correction has insight.\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "In the families of those who do right there are great treasures, \n\\q2 but the wealth that the wicked have gives them great troubles. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "The wise scatter knowledge about like the farmer scatters his seed,\n\\q2 but the hearts of fools are not so generous. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "Yahweh hates it when the wicked offer their sacrifices,\n\\q2 but when those who please him pray, he is delighted. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "Yahweh hates the way the wicked live,\n\\q2 but he loves the one who runs after what is right. \n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "Yahweh will discipline those who lose their way,\n\\q2 and those who hate correction will die.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "The places of death and destruction are known to Yahweh; \n\\q2 how much more does Yahweh know everything within the minds of the people he has made?\n\\b\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "The one who thinks he is better than anyone, he resents being corrected by anyone;\n\\q2 he thinks he is so smart, he will never talk with one who is wise. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "When people are happy, they have smiles on their faces,\n\\q2 but sadness is so strong it crushes the person.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "The longing of the one who is wise is to gain more knowledge,\n\\q2 but foolish people only say foolish things.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "Every day for one who is oppressed is misery for him,\n\\q2 but those who have a happy heart, for them life is a never-ending party.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "It is much better to have a only little and to give Yahweh the honor he deserves,\n\\q2 than to have great wealth along with much confusion.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "It is better to have a simple meal with vegetables when there is love in the home, \n\\q2 than to enjoy a delicious meal served by people who hate you. \n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "When a person is angry, he stirs up more arguments,\n\\q2 but one who does not quickly become angry, he is able to stop an argument and make peace. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "The life of a lazy person is like someone trying to walk through a hedge of thorns,\n\\q2 but those who do what pleases Yahweh are like those who are walking on a level highway.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "A wise child brings happiness to his father,\n\\q2 but it is a foolish person who despises his mother.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "Foolish people enjoy their folly;\n\\q2 those who have insight live a good life.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "When there is no one giving advice, plans go wrong,\n\\q2 but with many advisors, they will succeed.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "People rejoice when they give a good answer,\n\\q2 and how nice is the right word spoken at the right moment.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "The path leading to life goes up, away from death;\n\\q2 he follows that way and turns from the place of the dead.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "Yahweh destroys the generations of proud people,\n\\q2 but he protects the little owned by a widow.\n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "Yahweh hates what wicked people are thinking about,\n\\q2 but when people say what is kind, they are pure.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "The thief brings many troubles to his family,\n\\q2 but the one who refuses to accept bribes will live.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "The people who do right think carefully before they answer;\n\\q2 it is like the wicked pour out of their mouths all kinds of evil when they talk.\n\\q1\n\n\n"
+        },
+        {
+          "number": 29,
+          "text": "Yahweh is far away from wicked people,\n\\q2 but he listens to the prayers of those who do what is right.\n\\q1\n"
+        },
+        {
+          "number": 30,
+          "text": "When people smile, it makes them happy,\n\\q2 and good news brings healing to the body. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 31,
+          "text": "If you pay attention when someone corrects you,\n\\q2 you will stay among those who are wise. \n\\q1\n"
+        },
+        {
+          "number": 32,
+          "text": "The one who refuses to follow discipline, despises himself;\n\\q2 the one who receives correction gains understanding as well.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 33,
+          "text": "The honor that Yahweh deserves will be the lesson that will teach you wisdom,\n\\q2 and then humility comes before honor. \n\n\n"
+        }
+      ],
+      "number": 15
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "People make plans out of their longings deep within them, \n\\q2 but it is Yahweh who tells him what will happen.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "A person sees nothing wrong with what he does,\n\\q2 but Yahweh measures every part of what a person does according to his purposes. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "When you work, give all your ideas and your labor to Yahweh,\n\\q2 and your plans will be successful.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "When Yahweh made everything, he made them so they would all accomplish something for him.\n\\q2 He has even made the wicked for the day when there is great trouble.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "Yahweh hates those whose pride comes from deep within them;\n\\q2 and even there are many of them together, they will still be punished for their pride. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "Love and faithfulness will cover over sin and forgive sin. \n\\q2 When people give Yahweh the respect he deserves, \n\\q2 they will be able to turn away from doing what is evil.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "When a person pleases Yahweh by the way he lives his life,\n\\q2 he even causes that person's enemies to have get along with him.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "It is better to have a little money and to follow what is right, \n\\q2 than to have a large amount of money and to live by spreading injustice.\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "From deep within a person come the plans he makes, \n\\q2 but Yahweh leads the person in each step he takes.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "A king can speak with inspired judgment; \n\\q2 and when he makes a ruling, it is good and true.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "Honest scales come from Yahweh;\n\\q2 it is he who decided how much each unit should weigh.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "We should hate it when kings do wicked things, \n\\q2 for the throne is set on a firm foundation when the king does what is right.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "A king is happy when he hears someone speaking what is right;\n\\q2 and he loves the one who is direct when he talks.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "If a king becomes angry, his wrath is a danger that can kill; \n\\q2 so wise people will try to calm him so that he is not too angry. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "In a king's smile there is life;\n\\q2 when he is happy, he is like the cloud that brings the spring rain.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "Becoming wise is better than having gold;\n\\q2 getting good understanding is better than having silver.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "The one who lives in the way that is right will turn away from doing evil;\n\\q2 whoever is careful about how he lives his life\n\\q2 will preserve his life.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "Pride happens to someone first, and then he perishes.\n\\q2 If someone thinks he is better than others, \n\\q2 he will have a terrible fall. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "It is better to be humble and live among the poor\n\\q2 than to receive a portion of what proud people took by force. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "Those who think about what they have been taught \n\\q2 find many good things in the lesson; \n\\q2 how fortunate are those who put their trust in Yahweh.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "One who has wisdom deep inside him is given the title, \"discerning,\" \n\\q2 and those who speak in a way that can be understood \n\\q2 and can motivate their hearers, teach well. \n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "When you understand, it is as if you have found a fountain of life within you; \n\\q2 but fools find their punishment when their foolishness comes back to them. \n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "From deep within him, the wise person speaks from the insight he has learned; \n\\q2 and so when he speaks he has the power to pursuade others.\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "Kind words are like a honeycomb;\n\\q2 they are sweet for us to take in, \n\\q2 and they give healing to our bodies. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "A person lives out his life and he thinks he is doing what is right, \n\\q2 but when he comes to the end of his life, all he finds is death. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "A worker's appetite drives him to work harder,\n\\q2 his hunger urges him to keep working. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "A worthless man digs and digs until he finds something \n\\q2 he can use to embarrass someone and cause them trouble; \n\\q2 and what he says about them is like a fire that burns the field. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "A person who has no morals stirs up conflict between people;\n\\q2 and those who spread rumors pull friends apart. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 29,
+          "text": "A violent person tells lies to his friend, \n\\q2 and he leads him down a path that will never find what is good. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 30,
+          "text": "The one who winks the eye is signaling to others it is time to begin their terrible plot; \n\\q2 those who press their lips together, they do evil things. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 31,
+          "text": "Gray hair is like a glorious crown; \n\\q2 it is given to those who live their lives \n\\q2 by doing what is right.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 32,
+          "text": "The one who is slow to get angry is stronger than a warrior;\n\\q2 the one who is self-controlled is mightier than one who conquers a city by force. \n\\q1\n\n\n"
+        },
+        {
+          "number": 33,
+          "text": "The stones making up the \"lot\" are thrown into a person's lap, \n\\q2 but Yahweh decides on which side of the stones they will stop rolling.\n\n\n"
+        }
+      ],
+      "number": 16
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "It is better to eat a dry piece of bread and not have strife\n\\q2 than to live in a house where quarreling is as regular as feasting.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "A slave who acts wisely will rule over the son of his master \n\\q2 if that son does shameful things.\n\\q2 That slave will receive a share of the inheritance and will be treated like one of his master's sons. \n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "Silver is put into the crucible to be refined, and gold is put into the furnace to be made pure, \n\\q2 but it is Yahweh who makes people pure. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "Those who do what is evil pay attention to the person who talks in wicked ways,\n\\q2 and those who tell lies listen to those who speak in order to make trouble.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "The one who makes fun of those who are poor insults Yahweh who made him;\n\\q2 Yahweh will punish those who are happy when someone else has troubles.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "Grandchildren bring honor and respect to the aged,\n\\q2 and parents bring honor to their children.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "A fool is not able to give an eloquent speech;\n\\q2 even more is it wrong to lie to someone with a royal title.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "A bribe works like magic for the one who is giving the bribe;\n\\q2 everything he tries to do by giving bribes succeeds. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "You must learn not to be offended by the one you love, \n\\q2 but if you bring up something to your friend that hurt you, and you do it over and over,\n\\q2 that will pull the best of friends apart.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "A rebuke to someone with understanding goes deeper into him\n\\q2 than trying to teach a fool by hitting him a hundred times with a stick. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "An evil person is only interested in disobeying the rules;\n\\q2 he deserves a messenger who will be cruel to him. \n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "You would be better off meeting a mother bear who had been robbed of her cubs\n\\q2 than to meet a fool who is being foolish.\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "If someone gives back evil for the good that was given to him, \n\\q2 evil will stay in his family.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "Starting a quarrel is like pumping water and letting it run everywhere;\n\\q2 it is much better to walk away before it starts.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "When a court sets the wicked free and condemns those who do what is right, \n\\q2 Yahweh hates both of these actions.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "There is no benefit for a fool when he pays money to learn about wisdom;\n\\q2 no matter how much he tries, he will not be able to learn about wisdom. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "A friend loves you all the time,\n\\q2 and when you are in trouble, there is no one better than a brother to help you. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "One having no good judgment will make a contract he cannot pay, \n\\q2 and he will even may a promise to pay the money his neighbor owes. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "The one who loves to have arguments, that person also loves the sin that lies behind the conflict;\n\\q2 one thing leads to another: the one who makes the threshold of his door too high, it is sure to make someone break the bones in his foot.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "A person who is dishonest because of what is within him, he will never find what is good, \n\\q2 and the one who tells lies will fall into trouble.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "The father who has a fool brings sadness into his life;\n\\q2 the father of a fool cannot live a happy life. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "Being cheerful is like medicine that makes you feel better,\n\\q2 but when you are crushed by sadness, it is as if every bone within you could break with only a touch.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "A wicked person accepts a bribe in such a way as no one could see him,\n\\q2 so the bribe would change the verdict in his favor. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "The one who has begun to understand, he knows that he must also now go after wisdom.\n\\q2 However, the foolish person has bold plans and impossible dreams, \n\\q2 and he looks for them no matter how far away they may be. \n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "A foolish child brings a father great sadness, \n\\q2 and regret to the mother who gave birth to him. \n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "It cannot be good to punish someone who does what is right, \n\\q2 and if a good man with moral character is punished by the law, this can never be good.\n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "The one who has learned knowledge, learned to speak well using few words,\n\\q2 and the one who has understanding, does not lose his temper. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "When a fool keeps silent, some may think he is very wise;\n\\q2 when he keeps his mouth shut, even a fool looks intelligent. \n\n\n"
+        }
+      ],
+      "number": 17
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "The one who keeps himself away from other people will only live for his own desires,\n\\q2 and he never acts with good judgment.\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "A foolish person does not enjoy understanding anything;\n\\q2 he only wants to tell others what he thinks.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "A wicked person comes, and with them comes the contempt they have for other people—\n\\q2 and then comes shame and disgrace following along.\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "The words a man speaks are like the deep waters of an ocean\n\\q2 or a fountain that flows with wisdom. \n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "When the wicked are treated with special honor, it is not good,\n\\q2 and it is not good to refuse to give justice to those who do what is right.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "A foolish person says things that start arguments;\n\\q2 he says things that make other people want to beat him with a stick.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "A foolish person brings himself to ruin by the things he says;\n\\q2 his very words set a trap in which he will be caught. \n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "When a person gossips, his words are as sweet to other people as candy is in their mouths,\n\\q2 and they love to listen to them.\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "The person who does a poor job when he is working\n\\q2 is a relative to the one who destroys everything.\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "The name of Yahweh is like a castle that can never be overrun;\n\\q2 those who do what is right run for safety into it, and in the fortress of his name, they are safe. \n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "The wealthy person depends on his wealth as a city depends on its fortifications;\n\\q2 he thinks it protects him as well as a high wall.\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "When a person is about to be ruined, it is his proud heart that brings his destruction,\n\\q2 but before a person can gain great honor, he must first learn to become humble.\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "A person who gives you an answer before he listens to you—\n\\q2 there is nothing more foolish\n\\q2 and nothing that gives him more shame.\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "A person may survive a terrible sickness in his body,\n\\q2 but if he feels his inner self is crushed, how can he survive?\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "Intelligent people have a desire to get more and more knowledge,\n\\q2 and wise people will find someone to teach them even more knowledge.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "If you take a gift to an important person, you will open the way to allow you to talk to him.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "The first person to present his case before a judge seems right\n\\q2 until the other side comes and questions him.\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "When there are two strong people having a dispute,\n\\q2 casting lots can help to settle the dispute.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "If you offend your brother, finding a way to have peace with him again \n\\q2 may be harder than waging a battle to win a city.\n\\q2 and having an argument is more difficult to overcome \n\\q2 than breaking down the bars of a castle.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "The words a person speaks can bring satisfaction to himself,\n\\q2 like the food he eats satisfies his stomach. \n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "People are able to kill others or keep them alive by means of what they say.\n\\q2 And there is danger for those who love the power of their speaking. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "The one who finds a wife, finds something so good it is a gift to bless his life,\n\\q2 and it is Yahweh who gives him this wonderful gift. \n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "A poor person desperately begs for mercy, \nbut a rich person is rude when he answers. \n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "One person says that he has many friends, but his life is ruined by them; \n\\q2 but there is a friend who stands with us through everything,\n\\q2 and he is always close at our side, even closer than a brother. \n\n\n"
+        }
+      ],
+      "number": 18
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "Compare a poor person who keeps his promises, \n\\q2 with a fool who is full of lies. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "And consider, having desire without knowledge \n\\q2 is like running so fast that you miss the path you want to take. \n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "The folly of a fool destroys his life,\n\\q2 but he becomes furious with Yahweh for his troubles. \n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "Those who are wealthy easily find many friends, \nbut a poor person will find that his poverty separates him from the one friend he had. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "A person who lies in order to become a friend will be punished for taking advantage,\n\\q2 just as the one whose every word he speaks is a lie, he will not escape. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "When a person is generous with their gifts, many people will ask for favors, \n\\q2 it seems that everyone is a friend of the one who gives many gifts. \n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "All the brothers of one who is poor hate him; \n\\q2 and even more do his friends hate him, and they go far away from him; \n\\q2 he calls out to them, but they have left. \n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "The one who makes every effort to learn about wisdom, loves himself; \n\\q2 having understanding helps you know what is good and what is not. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "The ones who lie when they give testimony will be punished,\n\\q2 but the one whose every word is a lie, he will die. \n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "When a fool lives in luxury—it is not right,\n\\q2 and it is even worse for a slave to rule over princes. \n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "A person with good sense is slow to get angry, \n\\q2 and it is to his honor that he overlooks it when someone does him wrong. \n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "What is the wrath of the king like? It is like the roaring of a young lion,\n\\q2 but his kindness is like the dew on the grass. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "A foolish child will ruin a father.\n\\q2 A wife who is always quarreling will upset her husband like water that is constantly dripping.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "We can inherit houses and money from our parents, \n\\q2 but a sensible wife is from Yahweh. \n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "The one who is lazy finds that sleep comes easily to him,\n\\q2 but anyone who refuses to work will go hungry. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "The one who follows the command he was taught puts a guard over his life,\n\\q2 but the one who does not think about how he lives his life will die. \n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "One who is kind to the poor, it is as if he were lending to Yahweh; \n\\q2 and Yahweh will pay him for what he did. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "Train your children and give them discipline while it is still possible to rescue them;\n\\q2 but do not allow them to offend you so much that you consider taking their lives.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "A hot-tempered person will pay a price for his anger; \n\\q2 if you rescue him after he had has an outburst, you will have to do it again and again. \n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "Pay attention to good guidance and let others teach you \n\\q2 so that you can become wise by the end of your life. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "A person has many plans that come from within him,\n\\q2 but Yahweh has his own plans, and he will carry them out. \n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "A person wants loyalty,\n\\q2 and a poor person is better than a liar. \n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "Anyone who has respect for Yahweh will live a long life;\n\\q2 such a person who has this respect for Yahweh will be satisfied, \n\\q2 and will come to no harm. \n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "The lazy person puts his hand in the dish;\n\\q2 he is not able to raise his hand up to his mouth to eat. \n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "If you punish someone who mocks others,\n\\q2 an uninstructed person will learn how to be prudent.\n\\q2 If you correct someone who has understanding, \n\\q2 he will gain more knowledge.\n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "Someone who steals from his father and alienates his mother\n\\q2 brings shame and disgrace to himself. \n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "My son, if you will not listen to the teaching,\n\\q2 you will wander away from the words of knowledge.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 28,
+          "text": "A lying witness laughs at anyone who acts justly,\n\\q2 and wicked people act sinfully as easily as they eat food.\n\\q1\n"
+        },
+        {
+          "number": 29,
+          "text": "Yahweh is ready to punish those who make themselves out to be better than other people, \n\\q2 and he is ready to flog the backs of fools. \n\n\n"
+        }
+      ],
+      "number": 19
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "Wine makes you loud, and strong drink makes you foolish;\n\\q2 whoever lets alcohol lead them to where they get lost, are not wise.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "The king's wrath makes people as afraid as if they were facing a young lion roaring at them;\n\\q2 the person who makes a king angry is giving up his own life.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "It is an honor to stay out of an argument,\n\\q2 but every fool is ready to join one.\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "The lazy person is not willing to plow his crops again in autumn,\n\\q2 and when it is harvest time, he looks, but there is nothing growing in his field.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "The purposes within a person's life are like the deep waters of the ocean,\n\\q2 but a person who has understanding is able to draw them out and help bring them to pass. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "Many people proclaim that they can be trusted to do what they promise,\n\\q2 but it is very difficult to find one who can really be trusted.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "The person who always does right—\n\\q2 how fortunate will be his children who follow after him.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "A king who sits on his throne to act as a judge\n\\q2 can distinguish between all the kinds of evil before him just by looking at them.\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "No one can truthfully say, \"I have kept my heart pure, and I am free from my sins.\"\n\\b\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "Uneven weights, improperly marked, and unequal measures, that favor the one who is selling,\n\\q2 Yahweh hates both of them. \n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "Also, even a youth is known by how what he does, \n\\q2 it is clear whether what he does is pure and respectable or not. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "Ears that hear and eyes that see—\n\\q2 Yahweh made them both. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "If you love to sleep all the time, you will become poor;\n\\q2 stay awake when you should be at work and you will have plenty to eat. \n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "\"It is no good,\" the buyer says when he is bargaining with you about the price. \n\\q2 But after he buys it, he goes and boasts to his friends what a good price he bought it for.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "Consider the value of gold and many expensive jewels,\n\\q2 but the words of the one who has knowledge are like precious jewels.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "If you guarantee a loan for a stranger, take his expensive coat, so you can sell it if he does not pay,\n\\q2 and if he makes a pledge for a prostitute, hold him as a guarantee instead of anything he offers you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "Bread gotten by telling a lie, may taste sweet,\n\\q2 but later his mouth will be like it was full of gravel, because of his lies.\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "Good plans are made in consultation with good advisors,\n\\q2 and only with wise advisors giving their advice should anyone go to war.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "A gossip tells secrets,\n\\q2 so stay away from people who talk too much.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "If a person curses his father or his mother,\n\\q2 his life will be put out as a light that is snuffed out. \n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "An inheritance that comes to a person quickly, may do some good at the beginning,\n\\q2 but later it will do less good for the person who received it. \n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "Do not say, \"I will pay you back for the wrong you did to me.\" \n\\q2 Wait for Yahweh and he will take care of the matter. \n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "Yahweh detests those who use dishonest scales\n\\q2 and weights that are not accurate.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "Yahweh is the one who directs the way a person will go. \n\\q2 So then, how can someone understand where he is going?\n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "It is dangerous to declare that something is holy to Yahweh,\n\\q2 and it is worse to think about the meaning of holiness only after you have made a vow. \n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "A king who is wise will separate the wicked from among his people;\n\\q2 then he will drive a threshing cart over their bodies to kill them. \n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "The life-giving spirit within a man is the light shining from Yahweh within us,\n\\q2 it shines deep within and shows what is hidden deep inside us.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "Love and faithfulness preserve the life of the king; \n\\q2 his throne is made strong by steadfast love. \n\\q1\n\n\n"
+        },
+        {
+          "number": 29,
+          "text": "The honor of young people is seen in how strong they are,\n\\q2 but the splendor of old people is in their gray hair.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 30,
+          "text": "When we are beaten, the wound that results may cleanse away evil,\n\\q2 and beatings make our inmost self clean.\n\n\n"
+        }
+      ],
+      "number": 20
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "The motives of the king are directed like a stream of water by Yahweh;\n\\q2 he diverts the king like he directs the flow of water, in any way he wants. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "When a person looks at his own life, everything he does may seem right to him, \n\\q2 but what matters is what Yahweh thinks about what he does. \n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "Doing what is right and just is more acceptable to Yahweh\n\\q2 than offering sacrifices to him.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "When you show people that you think you are better than they, \n\\q2 and add to that the pride you have within you—this shines like a light and it tells others you are a wicked person—\n\\q2 they are examples of sin.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "Those who work hard and who carry out their plans will be successful,\n\\q2 but everyone who takes action too quickly and with little planning, make themselves poor.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "When someone becomes rich because he tells lies, \n\\q2 that wealth fades away like the mist; that wealth will kill him.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "When wicked people act with violence, they are destroyed by their own violence, \n\\q2 because they refuse to do what is right. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "A guilty person follows a path covered with lies,\n\\q2 but the innocent chooses to do what is right.\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "It is better to live alone in the corner of a housetop\n\\q2 than inside a house with a wife who always wants to argue with you.\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "The wicked crave evil more than anything, \n \\q2 when his neighbor looks at him, he cannot see any kindness in his eyes.\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "When a person who acts like he is better than other people is punished,\n\\q2 the simple—who do not know about right and wrong—are taught an important lesson,\n\\q2 and if you teach one who is wise, they can learn even more.\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "One who does what is right watches the house where evil people live,\n\\q2 and he confronts their wickedness and brings them to justice.\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "When the poor cried out for help, there was a person who refused to listen to their cries, \n\\q2 but when he cried out, because he covered his ears to their cries, no one heard his cries. \n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "Give a gift to a person who is angry with you, and it may turn away his anger; \n\\q2 a secret gift may help a person who is angry at you to calm down.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "When there is justice, those who love what is right are happy, \n\\q2 but when there is justice, it brings great fear to those who do what is evil. \n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "A person who does not understand right and wrong, will get lost when he tries to make decisions,\n\\q2 he will only rest when he is dead. \n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "Love pleasure and it will make you poor;\n\\q2 you cannot be rich and love to drink wine and eat expensive foods. \n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "A person who does right is honored much more than a wicked man,\n\\q2 and a good man is worth far more than one who never keeps his promise. \n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "It is better to live alone in a desert\n\\q2 than with a wife who is always stirring up conflicts and never stops complaining.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "Those who are wise have very precious treasures and they live very well, \n\\q2 but foolish people waste all they have.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "A person who does right and is kind, \n\\q2 lives a good life, makes wise decisions, and receives honor from others.\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "When a wise leader goes up against a city of mighty warriors, \n\\q2 he knows how to bring down the defenses of the city and he conquers it. \n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "Be careful, if you could put a guard to watch over the words that come out of your mouth and tongue, \n\\q2 you would keep away from a lot of trouble. \n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "The mocker thinks he is better than other people,\n\\q2 and his actions come from his pride and his arrogance. \n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "The things that the lazy person chooses to do will kill him;\n\\q2 he refuses to work. \n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "All day long he desires things—he could not desire for more things—\n\\q2 but whoever does right gives gifts to others, and he never holds back anything that is good. \n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "When the wicked decide to give an offering to Yahweh, Yahweh hates it,\n\\q2 and Yahweh hates it even more when the wicked man comes to worship Yahweh in order to get something for himself. \n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "Those who lie about other people, will die,\n\\q2 but the one who takes time to listen—when he says something, people will remember it.\n\\q1\n\n\n"
+        },
+        {
+          "number": 29,
+          "text": "The wicked man acts as if he were strong, \n\\q2 but an honest man has thought about what to do and is certain about it. \n\\q1\n\n\n"
+        },
+        {
+          "number": 30,
+          "text": "Can there be any wisdom, any understanding, or any advice, that is wiser than Yahweh?\n\\q1\n"
+        },
+        {
+          "number": 31,
+          "text": "The groomsman prepares the horse for the day of battle, \n\\q2 but the outcome of the battle, the winner or the loser, is determined by Yahweh.\n\n\n"
+        }
+      ],
+      "number": 21
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "Being a person who keeps his word is more important than having great riches,\n\\q2 and being a person who everyone respects for doing right, is better than having silver and gold. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "People who are rich and people who are poor have at least one thing in common—\n\\q2 Yahweh made both of them.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "One who has good sense takes cover when he sees trouble coming,\n\\q2 but those who have no experience or knowledge rush ahead into danger. \n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "When a person is humble and gives Yahweh the respect he deserves, \n\\q2 these are his rewards: riches, and honor, and life.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "Where the perverse walk, their way is like a road covered with thorns, and there are traps in every step.\n\\q2 When you guard your own life from evil, you will stay away from all these dangers.\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "A child must be shown the way to live and the direction he should go,\n\\q2 and when he reaches old age, he will stay on that same path.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "The fact is that the rick often have power over the poor, \n\\q2 and one who borrows money is almost like a slave to the one who lends him the money.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "If you plant the seeds of wickedness, you can expect a crop of trouble,\n\\q2 and when you use a rod to discipline your child, \n\\q2 but you use it when you are furious, it will do no good. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "The one who looks for people to help, Yahweh will give many good gifts, \n\\q2 because he considered it important to share his food with the poor. \n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "If you throw out the conceited person, out will go all kinds of conflict with him.\n\\q2 No one will quarrel or insult anyone else when he is gone.\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "When a person loves to do something just because he wants to do what is good and right—\n\\q2 he is sincere, and his speech is filled with kindness\n\\q2 —the king will be his friend.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "Yahweh gives protection to knowledge, to keep it safe, \n\\q2 just as surely as he makes the lying promises of the betrayer fail. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "A lazy person calls out, \"There is a lion in the street! If I go out, I will be killed!\"\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "The words spoken by an adulteress will draw you in, and it will be as if you have fallen into a deep and dangerous pit!\n\\q2 All those who fall into that pit will be in trouble, \n\\q2 but what is worse, they will experience Yahweh's anger for what they have done. \n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "Stupid and silly things are bound up within a child, \n\\q2 and they come out in foolishness; \n\\q2 but correcting a child with discipline drives the folly far away.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "The one who makes his money by taking advantage of the poor, \n\\q2 or by giving more money to the wealthy, \n\\q2 Yahweh will bring him into poverty. \n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "Now listen to what those who are wise have said;\n\\q2 give it all your attention and learn the knowledge you will need if you are to become wise. \n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "It will be good for you to make them the guiding principles you live by,\n\\q2 and be able to repeat all of them to others.\n\\q1\n"
+        },
+        {
+          "number": 19,
+          "text": "The most important thing is for you to trust in Yahweh,\n\\q2 and so I am teaching them to you, yes, even to you. \n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "I have written thirty of these sayings for you to learn; \n\\q2 sayings to give you advice and to teach you what you do not know. \n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "These lessons show you what is true and they teach you with faithful lessons,\n\\q2 so you may give reliable and true answers to those who sent you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 22,
+          "text": "Anyone can rob a poor person. Do not do it. \n\\q2 And do not hurt them who are begging at the city gate,\n\\q1\n"
+        },
+        {
+          "number": 23,
+          "text": "for Yahweh stands to defend them, \n\\q2 and he will take the life of those who stole from the poor. \n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "Do not become a friend with one whose life is controlled by his anger,\n\\q2 and do not associate with a person who rages in his terrible wrath,\n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "or you will learn to be like him, \n\\q2 and your anger will become like a trap, a trap that will take charge of your life. \n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "Be careful that you do not sign contracts to pay for the debts of others,\n\\q2 and do not make or sign a pledge so another person can take out a loan.\n\\q1 \n"
+        },
+        {
+          "number": 27,
+          "text": "For if you cannot pay it back,\n\\q2 they will surely come and take away everything from you, even your bed on which you sleep.\n\\q1\n\n\n"
+        },
+        {
+          "number": 28,
+          "text": "The ancient boundary stones show where the property lines are. Do not take them away or move them. \nYour ancestors put them there. Leave them alone.\n\\q1\n"
+        },
+        {
+          "number": 29,
+          "text": "One who learns a trade and is skillful at it will become a servant of kings.\n\\q2 Because of his achievements he will not serve mere ordinary people.\n\n\n"
+        }
+      ],
+      "number": 22
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "When you sit down to eat a meal with ruler of a country,\n\\q2 think carefully about what is in front of you.\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "It is said, \"put a knife to your throat\" if you think of eating a lot of food, \n\\q2 because it would be foolish to eat too much at such an important event. \n\\q1\n"
+        },
+        {
+          "number": 3,
+          "text": "Do not crave the special and expensive food the ruler enjoys;\n\\q2 the food will deceive you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 4,
+          "text": "Do not work so much that you are always tired, so you can become rich;\n\\q2 be wise and know when you should stop and rest. \n\\q1\n"
+        },
+        {
+          "number": 5,
+          "text": "As soon as you look at the money, it will be gone;\n\\q2 it will be as if it suddenly took up wings \n\\q2 and flew up like an eagle, up into the sky.\n\\q1\n\n\n"
+        },
+        {
+          "number": 6,
+          "text": "Do not eat with an evil man—he will gaze at your food for a long time—\n\\q2 do not desire his fine food,\n\\q1\n"
+        },
+        {
+          "number": 7,
+          "text": "because he will be thinking about how much your food cost him, \n\\q2 and he will say to you, \"Eat and drink,\" \n\\q2 but that is not what he will really be thinking.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "When you realize what he is really thinking, you will want to vomit what you have eaten;\n\\q2 and you will have wasted all the compliments you gave about the fine meal he prepared. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "Do not waste time talking to a fool;\n\\q2 he will only despise the wise things that you say.\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "Again, do not remove the ancient boundary stone. It is a marker for the property lines;\n\\q2 and do not claim land that is set apart for orphans to work, \n\\q1\n"
+        },
+        {
+          "number": 11,
+          "text": "because the One who redeems them is strong, \n\\q2 and he will plead their case against you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 12,
+          "text": "Pay attention to what you are learning,\n\\q2 and listen to the words of knowledge. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "Do not refuse to discipline your children;\n\\q2 if you punish them, they will not die,\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "and if you beat them with the rod of discipline, \n\\q2 you may save their lives from death.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "My son, if you have taken wisdom deep within yourself,\n\\q2 I will be very happy,\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "and I will be sincerely glad \n\\q2 when you say what is right. \n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "Do not envy sinful people;\n\\q2 but give Yahweh the respect he deserves, all day long. \n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "If you respect him, you will have a life in the future, \n\\q2 and Yahweh will not cut off his promises for the future.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "My son, listen to me so you may become wise,\n\\q2 and think about the way you live your life.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "Do not associate with those who get drunk with wine,\n\\q2 or with those who are eat far too much food,\n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "because drunkards and gluttons will become poor;\n\\q2 and they will sleep so much that they will have nothing but rags to wear.\n\\q1\n\n\n"
+        },
+        {
+          "number": 22,
+          "text": "Pay attention to your father who brought you into the world, \n\\q2 and do not hate your mother when she is old.\n\\q1\n"
+        },
+        {
+          "number": 23,
+          "text": "When you study wisdom, think of it as buying truth, but never selling it; \n\\q2 and the same for wisdom, and with discipline, and also with understanding; \n\\q2 let it be as though you were buying them so you can keep them for the rest of your life. \n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "The father of a child who does what is right will be very happy; \n\\q2 any man who has a wise son will be very happy because of him.\n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "Make your father and mother proud, \n\\q2 and let your mother be glad. \n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "My son, take what I say and put it deep within you, \n\\q2 and pay attention to the way that I live. \n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "A prostitute is like a very deep pit, that is easy to fall into, but difficult to get out; \n\\q2 another man's wife is a narrow pit; just as dangerous as a deep pit, but of a different kind. \n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "The immoral woman is waiting for you, waiting like a robber waits for his victim; \n\\q2 and they cause many men to become liars and traitors to those who love them.\n\\q1\n\n\n"
+        },
+        {
+          "number": 29,
+          "text": "Who is it who had trouble? Who has sorrows? Who has conflicts and fights?\n\\q2 Who has quarreling? Who is wounded for no reason?\n\\q2 Whose eyes are always bloodshot because they drank too much or ate too much?\n\\q1\n"
+        },
+        {
+          "number": 30,
+          "text": "It is those who drink too much wine\n\\q2 and those who drink the mixed wine.\n\\q1\n\n\n"
+        },
+        {
+          "number": 31,
+          "text": "Do not look with pleasure at red wine when it sparkles in the cup,\n\\q2 and it goes down the throat smoothly.\n\\q1\n"
+        },
+        {
+          "number": 32,
+          "text": "But, in the last, it bites you like a poisonous snake .\n\\q1\n"
+        },
+        {
+          "number": 33,
+          "text": "It makes you see strange things, \n\\q2 and within you, you say perverse things when you are drunk. \n\\q\n\n\n"
+        },
+        {
+          "number": 34,
+          "text": "You will think you are on a ship that is tossing on the sea;\n\\q2 you will be like someone who is trying to sleep up on the rigging of the boat.\n\\q1\n"
+        },
+        {
+          "number": 35,
+          "text": "You will say, \"I think that someone struck me, but he did not hurt me;\n\\q2 They beat me, but I did not feel it.\n\\q1 When will I wake up\n\\q2 in order that I can drink some more wine?\"\n\n\n"
+        }
+      ],
+      "number": 23
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "Do not want what evil people have;\n\\q2 do not desire them for friends,\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "because they are plotting to do violence;\n\\q2 they talk about making trouble.\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "It takes wisdom to build a house, \n\\q2 and by understanding the builder exercises his craft, and a house is made solid on its foundation. \n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "It takes knowledge to fill the rooms of the house \n\\q2 with all the beautiful and expensive decorations.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "A man who has wisdom has strength,\n\\q2 and a person with knowledge is mightier than the one who is strong, \n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "for with wise guidance you can wage a war successfully, \n\\q2 and by the advice of many advisors there will be victory.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "Wisdom is something that a fool cannot understand;\n\\q2 at the gate where the elders gather, the fool has nothing to say. \n\\q1\n\n\n"
+        },
+        {
+          "number": 8,
+          "text": "There is a man who does evil and makes plots—he is called the Master of Schemes.\n\\q1\n"
+        },
+        {
+          "number": 9,
+          "text": "A foolish plan is not only folly, it is sin; \n\\q2 when people tell the truth, they hate those who are conceited and mock everyone.\n\\q1\n\n\n"
+        },
+        {
+          "number": 10,
+          "text": "When trouble comes, and you are terrified like a coward, \n\\q2 then your strength is small. \n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "Rescue the ones who are being carried away to the slaughter;\n\\q2 they stagger and fall—hold them back from the one who would kill them.\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "If you say, \"I did not know that those people needed any help,\" then think about this:\n\\q2 God knows why we do everything, so he also knows why you said those people needed no help.\n\\q2 God sees everything you do in this life, so he certainly understands why you said that about those people.\n\\q2 He will certainly pay you back—and everyone else, too—for the harm they have done.\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "My son, eat honey, because it tastes good;\n\\q2 the honeycomb is sweet.\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "Wisdom is like the honeycomb, it feeds your life, if you can find it. \n\\q2 If you can find it, you will have a future, \n\\q2 and you will come to the future with hope that will not be cut short. \n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "Do not be like wicked people who hide and wait to attack the home of those who do what is right. \n\\q2 Do not commit a violent attack on the place where the good man rests!\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "Even if good people fall down seven times,\n\\q2 they always get back up,\n\\q1 but when a disaster comes to the wicked,\n\\q2 they are ruined by it.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "When your enemy falls, do not rejoice,\n\\q2 and do not be happy when he stumbles,\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "for Yahweh will see how you treat your enemy, and if he disapproves how you treat him,\n\\q1 Yahweh may turn his wrath from your enemy and put it on you. \n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "Do not worry about those who do what is evil,\n\\q2 and do not be jealous of them,\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "for there is no future for the wicked;\n\\q2 they are like a lamp whose light will soon be put out.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "My son, give to Yahweh and give to the king the respect each of them deserves,\n\\q2 and do not associate with anyone who rebels against either Yahweh or the king; \n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "because disasters will suddenly come upon those rebels,\n\\q2 and no one knows how terrible the disasters will be that will come from both Yahweh and from the king. \n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "Here are more things that wise people have said:\n\\q1 It is wrong for judges to decide matters unfairly.\n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "If they say to people who are guilty, \"You are innocent,\"\n\\q2 they will be cursed by foreign peoples, and hated by nations. \n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "But if judges say that guilty people must be punished,\n\\q2 things will go well for those judges, and they will receive gifts of goodness.\n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "Answering honestly—that is the best thing a person can do.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "First, do the work that needs to be done outside,\n\\q2 and prepare your fields;\n\\q2 and after that, build your house.\n\\q1\n\n\n"
+        },
+        {
+          "number": 28,
+          "text": "Do not give testimony against your neighbor if there is no reason for it,\n\\q2 and do not deceive people when you are telling what you know.\n\\q1\n"
+        },
+        {
+          "number": 29,
+          "text": "Do not say, \"I will do to him what he did to me;\n\\q2 I will pay him back for what he did to me.\"\n\\q1\n\n\n"
+        },
+        {
+          "number": 30,
+          "text": "I walked by the field of a lazy man,\n\\q2 past the vineyard of a man who had no good judgment.\n\\q1\n"
+        },
+        {
+          "number": 31,
+          "text": "Thorns grew there and the stone wall had fallen down.\n\\q1\n\n\n"
+        },
+        {
+          "number": 32,
+          "text": "When I saw that, I thought about it, and I learned this:\n\\q1\n"
+        },
+        {
+          "number": 33,
+          "text": "A little sleep, a little nap, a little folding of the hands to rest—and while you rest,\n\\q1\n"
+        },
+        {
+          "number": 34,
+          "text": "poverty will come to you like a thief who steals from you,\n\\q2 and poverty will come like an armed soldier who attacks you. \n\n\n"
+        }
+      ],
+      "number": 24
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "Here are more wise sayings of Solomon that were written down by the men of Hezekiah, the king of Judah.\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "God honors himself when he hides something so people cannot know it. \n\\q2 But it is to the honor of kings to search out the things that God has hidden. \n\\q1\n"
+        },
+        {
+          "number": 3,
+          "text": "What kings think is above the way peasants think; they are like the heavens, they are above us all; \n\\q2 and all kings have the same deep burdens that others cannot understand. \n\\q1\n\n\n"
+        },
+        {
+          "number": 4,
+          "text": "Silver cannot be used by the metal worker, \n\\q2 unless the silver is heated and dross is removed from it;\n\\q1\n"
+        },
+        {
+          "number": 5,
+          "text": "just as the dross is removed, even so, if wicked men are removed from the kings court, \n\\q2 his throne will be more secure, and he will be able to do what is right. \n\\q1\n\n\n"
+        },
+        {
+          "number": 6,
+          "text": "When you stand in front of a king, do not bring attention to yourself\n\\q2 and do not stand in the place set aside for those the king is honoring. \n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "It is better if someone tells you to sit closer to the king,\n\\q2 than for them to tell you, while one of the king's nobles is listening, that you should sit further away in order that someone who is more important may sit there.\n\\q When you witness something that gives you concern,\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "you should not quickly bring the matter to trial, \n\\q2 unless you are very sure about it. \n\\q2 because your neighbor may have a good explanation for what you saw. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "If you and your neighbor are having a disagreement, \n\\q2 settle it between yourselves, and do not tell others any secret you have learned about; \n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "for others might find out what you have done, \n\\q2 and you would be ashamed; \n\\q2 and from that time on, you will have a bad reputation.\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "Use the right words and a phrase put together to say exactly what you mean;\n\\q2 this is as delightful as seeing designs of gold in a silver bowl.\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "When a wise person rebukes someone who is willing to listen to him,\n\\q2 it is as priceless as a gold ring or jewelry made of finest gold. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "A messenger who is reliable and on time, gives delight to those who sent him, \n\\q2 to them he is like the cold of snow at harvest time, that refreshes the ground.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "When someone boasts about a gift he is going to give, but never gives it,\n\\q2 he is like the clouds and the wind that do not bring rain.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "With patient persuasion even a ruler's mind can be changed, \n\\q2 like the proverb that says, 'a soft tongue can break a bone.' \n\\q1\n\n\n"
+        },
+        {
+          "number": 16,
+          "text": "If you find some honey, eat just a little,\n\\q2 because if you eat too much, you could vomit it up.\n\\q1\n"
+        },
+        {
+          "number": 17,
+          "text": "Do not go to your neighbor's house too often;\n\\q2 he may get tired of you, and if you do not stop, he could even grow to hate you. \n\\q1\n\n\n"
+        },
+        {
+          "number": 18,
+          "text": "To falsely accuse others in court\n\\q2 is like attacking them with a club used in battle, or with a sword, or with sharp arrows.\n\\q1\n"
+        },
+        {
+          "number": 19,
+          "text": "Depending on an unreliable person during times of trouble\n\\q2 is like having a bad tooth or a foot that slips and makes you fall. \n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "Singing a song to someone who is feeling sad, \n\\q2 it is as unhelpful as taking off a coat on a very cold day,\n\\q2 or pouring vinegar into a wound.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "If your enemies are hungry, give them something to eat;\n\\q2 if they are thirsty, give them something to drink;\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "that will be the equal to pouring coals of fire on his head, without doing him any harm, \n\\q2 and Yahweh will reward you for doing that.\n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "When wind blows from the north, it will certainly rain;\n\\q2 it is just as certain that someone who tells secrets about others will make people angry.\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "It is better to live alone in the corner of a housetop\n\\q2 than inside a house with a wife who always wants to argue with you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "When you receive news from a far away country,\n\\q2 that is like giving cold water to a person who is thirsty.\n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "A good person who falls before the wicked, \n\\q2 that is as bad as a spring that becomes muddied or a fountain that becomes polluted.\n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "It is not good to eat too much honey;\n\\q2 that is like searching for more honor when you already have honor.\n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "A person who cannot control himself \n\\q2 is like a city with no way to keep out enemies; its walls have fallen down.\n\n\n"
+        }
+      ],
+      "number": 25
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "When it snows in the summer, or when it rains in the harvest, \n\\q2 that is what is it like when a fool gets honor—\n\\q2 honor for him comes at the wrong time, and the wrong place. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "A sparrow flies here and there flittering around, and a swallow darts back and forth when it flies, \n\\q2 that is like someone speaking a curse against you—but it cannot land on you.\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "A horse needs a whip to make it move, and a donkey must have a bridle in its mouth, or it will not carry its load.\n\\q2 In the same way, a fool needs someone to beat him on his back to get him to do anything.\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "Do not reply to a fool when he is trying to draw you into his foolishness, \n\\q2 or you will be just as much a fool as he is.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "Give a fool an answer that will be just as foolish as his question, \n\\q2 and that may open his eyes so he can see that he is not as wise as he thinks. \n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "If you entrust an important message to be delivered by a fool, \n\\q2 that would as foolish as cutting of your own feet, and then taking a drink of poison.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "A lame man cannot use his legs; they hang down and are useless,\n\\q2 as useless as when fools are reciting proverbs to one another that they do not understand..\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "When you tie a stone into a sling so it cannot be thrown, \n\\q2 that is like one who gives honor to a fool, \n\\q2 for no matter how much you praise him, \n\\q2 it will never do him any good. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "When a drunk man picks up a bush full of thorns \n\\q2 and starts to swing it around at people, \n\\q2 that is as helpful as a fool reciting proverbs, \n\\q2 people stand back and try to get away from him. \n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "An archer who aims and shoots arrows at people standing around him, \n\\q2 is as dangerous as one who hires a fool \n\\q2 or he takes so little care that he hires the next person who comes along. \n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "When you see a dog return to his vomit, \n\\q2 that is just like a fool who does the same foolish thing over and over again.\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "Do you know someone who has this idea about himself—\n\\q2 he thinks he is a very wise person?\n\\q2 It is easier to teach a fool than him. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "The lazy person has many reasons for not working— \n\\q2 you might hear him say, \"But there is a lion in the street!\" \n\\q2 or \"Oh, there is a lion in the market!\"\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "When you see a door swing back and forth on it hinges, \n\\q2 that is just like one who is lazy, when he is lying on his bed, turning back and forth. \n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "One who is lazy might reach down with his hand to get some food, \n\\q2 but he does not have the energy to put the food into his mouth. \n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "The one who is lazy considers himself to be very wise, \n\\q2 more wise than seven men who are known for their insight.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "Someone who walks by a dog lying on the ground, who then reaches down and pulls its ears; \n\\q2 he is like someone who hears an argument as he is walking by, \n\\q2 and he gets involved, and becomes angry \n\\q2 and then he takes sides and joins in—\n\\q2 even though he had nothing to do with it. \n\\q1\n\n\n"
+        },
+        {
+          "number": null,
+          "text": "18-19 Who is like an insane person who shoots burning arrows in every direction? \n\\q2 One who lies to his neighbor!\n\\q2 He makes an excuse to his neighbor and tells him, \n\\q2 \"I was only joking;\" \n\\q2 but just like the madman's arrows, \n\\q2 what he said has set everything on fire. \n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "The fire goes out when there is no more wood to burn; \n\\q2 and so arguments stop when no one is gossipping.\n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "As charcoal can ignite into burning coal and a log of wood into a fire;\n\\q2 so the one who argues sets anger ablaze. \n\\q1\n\n\n"
+        },
+        {
+          "number": 22,
+          "text": "The gossip tells stories that are like sweet treats to eat; \n\\q2 people eat them like candy until they are filled. \n\\q1\n"
+        },
+        {
+          "number": 23,
+          "text": "A shining glaze applied with great heat, covers the clay pot, \n\\q2 and that is like the firey words that cover an evil heart.\n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "The one who is filled with hate, by the words he speaks, he hides his true feelings;\n\\q2 and he stores up more and more lies within himself.\n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "He may speak kind words, but you should not believe them,\n\\q2 because deep within him is everything that Yahweh despises.\n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "Even though he covers up his hatred by his lies, \n\\q2 everyone will realize how wicked he is.\n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "One who digs a pit will fall into it; \n\\q2 and a stone rolls back on the one who tried to push it up a hill. \n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "The one who lies hates the people he destroys; \n\\q2 just as much as the person who uses flattery causes terrible destruction. \n\n\n"
+        }
+      ],
+      "number": 26
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "Do not boast about what will happen tomorrow,\n\\q2 because you do not know what will come to you during that day.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "Do not praise yourself; let someone else praise you.\n\\q2 It is better for someone you do not know to praise you, \n\\q2 than for you to praise yourself.\n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "If you think about how heavy a stone can be, or how much sand can weigh— \n\\q2 then you will understand that the trouble a fool causes is harder to carry than both of those things. \n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "If you think about how cruel can be people who rage at others, and how angry people can attack others like a flood of water, \n\\q2 then think about how jealous people are even worse;\n\\q2 no one can resist being harmed by a jealous person. \n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "It is better to offer a rebuke out in the open, than to have a love that is hidden. \n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "A wound from a friend is better than kisses from an enemy. \n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "When a person is walking along and he has a full stomach, he may step on a honeycomb because he is not hungry;\n\\q2 but if he were very hungry, even bitter things would taste sweet to him.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "When a man wanders away from his home, \n\\q2 he is acting like a bird that stays far from its nest.\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "The aroma of perfume and the scent of incense can help to make a person feel happy;\n\\q2 but the sweetness of a friend is more important than his advice. \n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "Do not forget your friend or a friend of your father; \n\\q2 and when you have a problem and you need help, \n\\q2 do not go to your brother's home.\n\\q2 When there is trouble, a neighbor who lives close by \n\\q2 is better than a brother who lives far away\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "My son, if you become wise, you will make me happy;\n\\q2 so I will be able to give an answer to anyone who argues against me.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "One who has good sense takes cover when he sees trouble coming,\n\\q2 but those who have no experience or knowledge rush ahead into danger. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "Take a man's garment as security when he is guaranteeing a loan for a stranger. \n\\q2 If one wants to hold the debt for an adulteress, do not let him do it; take hold of him.\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "Whoever shouts out a blessing in a loud voice early in the morning,\n\\q2 that blessing will be heard as if it were a curse.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "A wife who continually argues with her husband is as annoying as \n\\q2 the constant dripping of water on a rainy day;\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "and stopping her from arguing would be as difficult as restraining the wind,\n\\q2 or trying to catch oil in one hand.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "Iron is used to sharpen an iron blade, just like a man makes his friend better.\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "The farmer who takes care of a fig tree will enjoy its fruit when it is ripe.\n\\q2 This is just like the one who protects his master, he will get honor from his master.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "When a person looks in the water, he sees his own face;\n\\q2 similarly when we look at what a person loves, we know what he is like deep inside.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "You know that the Place of the Dead and The Destroyer are never satisfied;\n\\q2 and people, too, are never satisfied and always want more. \n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "Silver is refined in a crucible, and gold is put into a furnace to be made pure;\n\\q2 and how a person responds to the praise given to them \n\\q2 will tell you what kind of person he is. \n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "Though you grind a fool as if you were grinding up grain,\n\\q2 you will not be able to take his foolishness out of him.\n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "A good shepherd will know the condition of all his sheep and he will check on them every day.\n\\q2\n"
+        },
+        {
+          "number": 24,
+          "text": "Wealth does not last forever. \n\\q2 Does the crown of a king endure for all generations?\n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "The grass dies out and then the new growth starts to grow;\n\\q2 and on the mountains food for the cattle is stacked up in the barns. \n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "The lambs will give you warm clothing and the goats will give you enough to pay for the cost of the field. \n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "There will be milk from the goats that you can drink—that will be food for everyone who lives in your house—\n\\q2 and it is food to feed your servant girls, as well. \n\n\n"
+        }
+      ],
+      "number": 27
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "A wicked person runs away even when no one is coming after him,\n\\q2 but the one who does what is right is as brave as lions.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "The more sin there is in a country, the greater the number of rulers it will have; \n\\q2 but when there is a ruler who has understanding and knowledge, the country can last a long time. \n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "When a poor person oppresses other poor people,\n\\q2 it is like a hard rain that destroys the crops and leaves no food for anyone to eat. \n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "Those who reject the law are the same people who speak well of those who are wicked;\n\\q2 but those who obey the law fight against the wicked. \n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "As difficult as it is for evil people to understand what is just, \n\\q2 even so those who want to find Yahweh understand everything that is important. \n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "It is better to be honest and poor, \n\\q2 than to be dishonest in all you do, and to be rich.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "The one who obeys the law is a child who has understanding of the ways of wisdom;\n\\q2 but if children go around with friends who are only interested in eating too much, they put their father to shame.\n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "The person who becomes rich by charging a high rate of interest ,\n\\q2 he does not know that he is gathering his money, and it will be given to someone who helps the poor and is kind to them. \n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "If you refuse to hear what the law says to you about how you should live;\n\\q2 then Yahweh is offended by your prayers. \n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "If someone tricks an honest person into doing that is bad, \n\\q2 the one who did that will fall into his own trap, \n\\q2 but those who have tried to right will received many good things.\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "A rich person can think of himself as being wise, \n\\q2 but someone who is poor but who has good sense will be able to tell if the rich man is really wise. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "When those who do what is right have a victory, it is a time to celebrate,\n\\q2 but when those who are wicked rise up in victory, people run and hide. \n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "The one who tries to cover up his sins will be found out, \n\\q2 but Yahweh will forgive those who tell their sins to him, and they turn away from doing them. \n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "How fortunate are those who always honor Yahweh; \n\\q2 but those who refuse to listen to him, who do not want to learn from him, will fall into trouble.\n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "You know what a roaring lion or a charging bear is like; \n\\q2 they are just like the wicked ruler who is tearing apart poor people. \n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "A king who does not have good sense thinks he is wise when he is cruel and he takes everything away from his people. \n\\q2 but a person who hates getting anything by breaking the law, will live a long life.\n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "If a person is guilty of murdering another\n\\q2 he will live like a fugitive until he dies;\n\\q2 and no one will help him. \n\\b\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "When a person lives his life and is blameless, Yahweh will keep him safe;\n\\q2 but one who lives by his lies will be suddenly ruined.\n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "A farmer who works his field will have plenty of food to eat;\n\\q2 but anyone who gives his time to worthless dreams, will be very poor. \n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "Yahweh will give good things to a faithful person; \n\\q2 but he will certainly punish those who become rich quickly.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "It is bad to give a favor to one person and not to another;\n\\q2 some people will do what is wrong just to get a piece of bread.\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "A man who hates to spend his money will run to more,\n\\q2 but he does not know that poverty is coming to him. \n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "The one who rebukes a person will later be appreciated more\n\\q2 than the one who says nice things just to flatter him.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "Anyone who steals things from his father or his mother\n\\q2 and says \"That is not sinful,\"\n\\q2 he is friend of the one who destroys. \n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "A greedy person stirs up arguments between people;\n\\q2 but the one who trusts in Yahweh will do well.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "One who depends on himself is a fool, \n\\q2 those who make wise decisions escape danger.\n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "One who gives to help the poor, will not lack anything,\n\\q2 but many curses will come to whoever turns away and ignores them. \n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "When wicked people get power, men and women hide;\n\\q2 but when the wicked die, there will be more and more of those who do what is right.\n\n\n"
+        }
+      ],
+      "number": 28
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "When you rebuke a person who has rejected your words and who refused to listen to you,\n\\q2 he will be crushed to the point that he cannot be healed. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "When people live the right way, they become more numerous, \n\\q2 but when a wicked ruler starts to govern, the people groan. \n\\q1\n\n\n"
+        },
+        {
+          "number": 3,
+          "text": "A son who desires to learn about wisdom makes his father very happy;\n\\q2 but the son who is a companion of prostitutes will lose all his money\n\\q1\n"
+        },
+        {
+          "number": 4,
+          "text": "When a king rules with honest rules and good laws, he causes his nation to be strong,\n\\q2 but anyone who asks for bribes, ruins his nation.\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "One who praises his neighbor to get something from him, \n\\q2 is like the one who listens for the sound of his footsteps, \n\\q2 so he can catch him in a net.\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "A bad person sets a trap with his sin; then he falls into it; \n\\q2 but one who does right is full of songs and joy.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "The one who does right stands up for the poor and defends them; \n\\q2 but wicked people do not see the importance of standing up for the poor. \n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "People who sneer and mock others are like those who set a city on fire; \n\\q2 but those who help people get rid of their anger are wise.\n\\q1\n\n\n"
+        },
+        {
+          "number": 9,
+          "text": "If a wise person has any conflict with a foolish person,\n\\q2 the foolish person screams at him and then laughs at him, and it never ends.\n\\q1\n"
+        },
+        {
+          "number": 10,
+          "text": "A murderer hates him who does everything right; \n\\q2 and they seek to kill the one who has a good reputation.\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "A fool shows all his anger, \n\\q2 but a person who is wise holds his anger, and he knows how to calm himself down.\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "If a ruler believes the lies that are told to him,\n\\q2 he teaches all his officials to be wicked.\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "What do a poor person and one who takes advantage of people have in common? \n\\q2 Yahweh gives life to both of them.\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "If a king judges the poor by listening to the truth,\n\\q2 he will build a kingdom that will continue forever. \n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "If a child is punished,\n\\q2 the gift of wisdom is given to him; \n\\q2 but when a child is out of control,\n\\q2 this brings shame to his mother.\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "When wicked people have authority, lawbreaking is common; \n\\q2 but those who do what is right will see the day \n\\q2 when the wicked will lose their power. \n\\q1\n\n\n"
+        },
+        {
+          "number": 17,
+          "text": "Discipline your child and he will help you and serve you;\n\\q2 you will truly rejoice over him.\n\\q1\n"
+        },
+        {
+          "number": 18,
+          "text": "When no prophet receives any vision from Yahweh, the people go out of control,\n\\q2 but those who obey the law are fortunate. \n\\q1\n\n\n"
+        },
+        {
+          "number": 19,
+          "text": "Talk to a slave as much as you want, \n\\q2 but though he understands what you are saying, they have learned not to give you an answer.\n\\q1\n"
+        },
+        {
+          "number": 20,
+          "text": "Do you see someone who is quick to speak, quick to give an opinion?\n\\q2 Yahweh can give a fool more help in the future easier than he can help him who is quick to speak.\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "If a slave is excused from his labor \n\\q2 and treated better than other slaves by his master \n\\q2 from the time he is young; \n\\q2 but when he is grown, \n\\q2 that slave will give trouble to his master. \n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "A person who cannot control his anger stirs up many quarrels\n\\q2 and uses his rage to rule over others, and so he commits many sins. \n\\q1\n\n\n"
+        },
+        {
+          "number": 23,
+          "text": "Any person who is proud will be humbled;\n\\q2 but the one who is humbled will be given honor.\n\\q1\n"
+        },
+        {
+          "number": 24,
+          "text": "A person who helps a thief, hates himself;\n\\q2 he overhears the curse, but he does not say anything about it. \n\\q1\n\n\n"
+        },
+        {
+          "number": 25,
+          "text": "When one is afraid of what people can do, \n\\q2 it is like setting a trap for himself.\n\\q2 but whoever trusts in Yahweh is safe.\n\\b\n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "Many people want to come before a ruler to get help from him, \n\\q2 but Yahweh is the only one who gives him true justice. \n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "Those who do what is right detest a person who treats others in an unfair way; \n\\q2 just as the wicked hate those who live good lives.\n\n\n"
+        }
+      ],
+      "number": 29
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "These are sayings containing wisdom, the sayings of Agur son of Jakeh.\n\\q1 Agur wrote them for Ithiel, yes, to Ithiel and to Ucal.\n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "I am more like an animal than any human being! \n\\q2 I lack the understanding that a human being has!\n\\q1\n"
+        },
+        {
+          "number": 3,
+          "text": "I have not learned about wisdom; \n\\q2 I do not know Yahweh, the Holy One.\n\\q1\n\n\n"
+        },
+        {
+          "number": 4,
+          "text": "Who has ever gone up to heaven and come back down again?\n\\q2 Who can catch the wind in his hand?\n\\q2 Who can gather up the waters in an overcoat?\n\\q2 Who set the limits to the size of the earth?\n\\q2 What is his name? And what is the name of his son?\nDo you know?\n\\q1\n\n\n"
+        },
+        {
+          "number": 5,
+          "text": "Every word of God is proven by a test that it is true;\n\\q2 he is like a shield that protects those who run to him.\n\\q1\n"
+        },
+        {
+          "number": 6,
+          "text": "Be careful not to add to Yahweh's words more than he has said;\n\\q2 if you do that, he will correct you and he will prove that you lied about what he said.\n\\q1\n\n\n"
+        },
+        {
+          "number": 7,
+          "text": "I ask Yahweh for two things, \n\\q2 and that he give them to me before I die. \n\\q1\n"
+        },
+        {
+          "number": 8,
+          "text": "Put vain pride and lies far away from me;\n\\q2 and let me neither have poverty or riches, \n\\q2 just give me the food I need every day. \n"
+        },
+        {
+          "number": 9,
+          "text": "For if I have too much money, \n\\q2 I will deny my God, and say, \"Who is Yahweh?\"\n\\q2 Or I become so poor that I steal from others, \n\\q2 and bring disgrace on the name of my God.\n\\q1\n\n\n"
+        },
+        {
+          "number": 10,
+          "text": "Do not speak badly about a slave when he is standing before his master;\n\\q2 if you do, he will curse you, and you will be responsible; you brought it on yourself.\n\\q1\n\n\n"
+        },
+        {
+          "number": 11,
+          "text": "There are many people who curse their fathers\n\\q2 and they do not praise their mothers or thank them; \n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "those people think everything they do should not be criticized,\n\\q2 but really they have never been cleansed from their filth.\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "These people show how proud they are in their eyes;\n\\q2 they make people look at them and they show their pride in their faces!\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "These people use their mouths to speak the most hurtful words, like they are cutting and tearing people apart;\n\\q1 it is as if they are eating up the poor people from the earth,\n\\q2 and swallowing up the needy from humanity. \n\\q1\n\n\n"
+        },
+        {
+          "number": 15,
+          "text": "There are leeches that suck blood, imagine they had two daughters;\n\\q2 they say, \"Give to us! Give to us! \n\\q1 There are four things that are never satisfied—\n\\q2 they always want more :\n\\q1\n"
+        },
+        {
+          "number": 16,
+          "text": "The grave, the place of the dead;\n\\q1 the womb of a woman that never conceived a child; \n\\q1 soil that badly needs to be watered;\n\\q1 and a fire that burns hot and it never says, \"The fire is hot enough!\"\n\\b\n\\q1\n"
+        },
+        {
+          "number": 17,
+          "text": "The one who dishonors his father, \n\\q2 and who disrespects and disobeys his mother. \n\\q1 such a person would be killed and have his eyes pecked out by crows,\n\\q2 and would be devoured by the vultures.\n\\q1\n\n\n"
+        },
+        {
+          "number": 18,
+          "text": "There are three wonderful things I can mention; \n\\q2 no, there are four that are too amazing and I cannot understand them.\n\\q1\n"
+        },
+        {
+          "number": 19,
+          "text": "How eagles fly in the sky;\n\\q1 how snakes move over a big rock,\n\\q1 how ships can sail on the seas,\n\\q1 and how a man is able to win the love of a woman.\n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "This is what a woman is like who is not faithful to her husband:\n\\q2 she eats and then wipes her mouth, \n\\q2 and she says, \"There is nothing wrong in what I have done.\"\n\\q1\n\n\n"
+        },
+        {
+          "number": 21,
+          "text": "There are four things that make the earth tremble:\n\\q1\n"
+        },
+        {
+          "number": 22,
+          "text": "the earth trembles with a slave becomes a king; \n\\q1 the earth trembles when fool has eaten his food and is filled; \n\\q1\n"
+        },
+        {
+          "number": 23,
+          "text": "the earth trembles when a woman who is hated by all, gets married,\n\\q1 and the earth trembles, when the maid becomes the wife of her master. \n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "There are four creatures on the earth that are small, but they are very wise.\n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "Ants are not strong,\n\\q2 but they store up food during the summer in order to have it during the winter.\n\\q1\n"
+        },
+        {
+          "number": 26,
+          "text": "Rock badgers also are not strong,\n\\q2 but they make their homes among the rocks.\n\\q1\n\n\n"
+        },
+        {
+          "number": 27,
+          "text": "Locusts do not have a king,\n\\q2 but they march in rank like soldiers in the army.\n\\q1\n"
+        },
+        {
+          "number": 28,
+          "text": "Lizards are very small and you can hold them in your hand,\n\\q2 but they get inside kings' palaces.\n\\b\n\\q1\n\n\n"
+        },
+        {
+          "number": 29,
+          "text": "There are four animals that walk with great pride and they are very impressive as they walk.\n\\q1\n"
+        },
+        {
+          "number": 30,
+          "text": "Lions, which are the strongest among wild animals\n\\q2 and are not afraid of any of them.\n\\q1\n"
+        },
+        {
+          "number": 31,
+          "text": "Strutting roosters, and male goats, \n\\q1 and kings who stand with their soldiers beside them. \n\\q1\n\n\n"
+        },
+        {
+          "number": 32,
+          "text": "If you have acted foolishly, exalting yourself,\n\\q2 or if you been planning to do something evil,\n\\q1 put your hand over your mouth! Stop it!\n\\q1\n"
+        },
+        {
+          "number": 33,
+          "text": "Just as when you churn milk, and it produces butter,\n\\q2 even so, if you hit someone hard on his nose, the result is that his nose will bleed;\n\\q2 and, in the same way, when people are angry, they will argue and fight.\n\n\n"
+        }
+      ],
+      "number": 30
+    },
+    {
+      "verses": [
+        {
+          "number": 1,
+          "text": "These are sayings of King Lemuel—an oracle his mother taught him. \n\\q1\n"
+        },
+        {
+          "number": 2,
+          "text": "She says: You are my son; I carried you in my womb; \n\\q2 you are the son, I made promises to Yahweh for you.\n\\q1\n"
+        },
+        {
+          "number": 3,
+          "text": "Do not give your strength to women;\n\\q2 and do not tell what your plans are, to the women who destroy kings.\n\\q1\n\n\n"
+        },
+        {
+          "number": 4,
+          "text": "Lemuel, kings should be careful about drinking wine; \n\\q2 and a king should never ask, \"Where is the strong drink?\" \n\\q1\n"
+        },
+        {
+          "number": 5,
+          "text": "They could drink but then they might forget that they made a decree of the king, \n\\q2 and tear down the rights of those who have been taken advantage of. \n\\q1\n\n\n"
+        },
+        {
+          "number": 6,
+          "text": "Give strong drink to those who are dying\n\\q2 and to those who are grieving their loss. \n"
+        },
+        {
+          "number": 7,
+          "text": "One who drinks will forget he is poor, \n\\q2 and he will not remember his trouble. \n\\q1\n\n\n"
+        },
+        {
+          "number": 8,
+          "text": "Speak for those who cannot speak for themselves,\n\\q2 speak for those who are approaching death. \n\\q1\n"
+        },
+        {
+          "number": 9,
+          "text": "Speak out and render judgment according to what is right; \n\\q2 and plead for justice to come in the cases of the poor and the needy. \n\\q1\n\n\n"
+        },
+        {
+          "number": 10,
+          "text": "Who can find a wife who is good at many things?\n\\q2 Her value is much more than the jewels she could wear.\n\\q1\n"
+        },
+        {
+          "number": 11,
+          "text": "Her husband completely trusts her,\n\\q2 and because of her, he will never be poor.\n\\q1\n"
+        },
+        {
+          "number": 12,
+          "text": "She does good things for him and not evil,\n\\q2 all the days of her life.\n\\q1\n\n\n"
+        },
+        {
+          "number": 13,
+          "text": "She finds wool and flax in the market,\n\\q2 and she enjoys spinning it to make yarn and fabric.\n\\q1\n"
+        },
+        {
+          "number": 14,
+          "text": "She is like the merchant ships \n\\q2 because she brings her food to her home from far away.\n\\q1\n"
+        },
+        {
+          "number": 15,
+          "text": "She gets up before dawn to prepare food for her family,\n\\q2 and she gives each servant girl her duties for the day. \n\\q1\n\n\n"
+        },
+        {
+          "number": 16,
+          "text": "She goes out and considers what field she will buy, and she buys it.\n\\q1 With the money she has made in other ventures, \n\\q2 she plants a vineyard. \n\\q1 \n"
+        },
+        {
+          "number": 17,
+          "text": "She prepares herself with her strength, \n\\q2 and her arms are strong, able to do hard work. \n\\q1\n\n\n"
+        },
+        {
+          "number": 18,
+          "text": "She knows when she is getting a good profit from her business.\n\\q1 She keeps a lamp burning all night long. \n\\q1\n"
+        },
+        {
+          "number": 19,
+          "text": "She holds the spindle,\n\\q2 and then she spins the thread that she will use.\n\\q1\n\n\n"
+        },
+        {
+          "number": 20,
+          "text": "She gives an outstretched hand to help the poor.\n\\q1\n"
+        },
+        {
+          "number": 21,
+          "text": "She is not worried about the snow,\n\\q2 for everyone in her house have the best winter coats. \n\\q1\n\n\n"
+        },
+        {
+          "number": 22,
+          "text": "She makes covers for the beds.\n\\q2 She wears fine purple linen clothes—the color of royalty.\n\\q1\n"
+        },
+        {
+          "number": 23,
+          "text": "Her husband is well known at the city gates, \n\\q2 and there at the gates he sits with the other leaders of the town. \n\\q1\n\n\n"
+        },
+        {
+          "number": 24,
+          "text": "She makes linen garments and she sells them.\n\\q2 She sells sashes to shop owners.\n\\q1\n"
+        },
+        {
+          "number": 25,
+          "text": "She is strong in her character and respected,\n\\q2 and she laughs at what will happen in the future.\n\\q1\n\n\n"
+        },
+        {
+          "number": 26,
+          "text": "When she speaks, she says what is wise,\n\\q2 and she lives by the law of kindness.\n\\q1\n"
+        },
+        {
+          "number": 27,
+          "text": "She watches over everything that is done in her household,\n\\q2 and nothing in her actions would be anything like laziness.\n\\q1\n\n\n"
+        },
+        {
+          "number": 28,
+          "text": "Her children speak highly of her;\n\\q2 her husband also praises her.\n\\q1\n"
+        },
+        {
+          "number": 29,
+          "text": "He says to her, \"There are many women who do admirable things,\n\\q2 but you surpass them all!\"\n\\q1\n\n\n"
+        },
+        {
+          "number": 30,
+          "text": "Elegance can deceive \n\\q2 and make you think more highly of a person than you should; \n\\q2 and beauty has no lasting value. \n\\q2 But a woman who honors Yahweh will be praised for the person she is.\n"
+        },
+        {
+          "number": 31,
+          "text": "Give her what she has earned, \n\\q2 and her works will praise her among the leaders of the town. \n"
+        }
+      ],
+      "number": 31
+    }
+  ]
+}
