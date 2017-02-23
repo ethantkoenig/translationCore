@@ -1,6 +1,4 @@
-language: csharp
-mono:
-- 4.6.2
+language: node_js
 os:
   - linux
   - osx
@@ -52,6 +50,4 @@ deploy:
     branch: master
     tags: true
     condition: "$TRAVIS_OS_NAME == osx"
-before_install:
-- openssl aes-256-cbc -K $encrypted_23522de69895_key -iv $encrypted_23522de69895_iv
-  -in Auth.json.enc -out Auth.json -d
+
